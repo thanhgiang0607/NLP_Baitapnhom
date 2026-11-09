@@ -1,4 +1,6 @@
-# Dữ liệu dùng chung cho cả 3 nhóm
+# Dữ liệu dùng chung cho nhóm 1 và nhóm 2
+
+(Nhóm 3 không dùng file này: nhóm 3 tự cào dữ liệu trên DuckDuckGo.)
 
 **File duy nhất:** `comments_raw.csv` – 200 dòng, đúng 2 cột `id`, `text`.
 
