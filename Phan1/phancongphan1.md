@@ -1,12 +1,12 @@
 # Phần 1 
 
-Chia thành **3 việc**, đều chạy trên **cùng một bộ dữ liệu**:
+Chia thành **3 việc**. Nhóm 1 và 2 dùng chung 200 bình luận; nhóm 3 **tự cào dữ liệu riêng trên DuckDuckGo**:
 
-| Nhóm | Việc |
-|---|---|---|
-| 1 | Semi-supervised (bán giám sát) |
-| 2 | Thuật toán Turney |
-| 3 | Từ điển cảm xúc không giám sát (kiểu WordNet) |
+| Nhóm | Việc | Dữ liệu đầu vào | Kết quả chính |
+|---|---|---|---|
+| 1 | Semi-supervised (bán giám sát) | 200 bình luận (`data/comments_raw.csv`) | Nhãn tích cực/tiêu cực cho 200 bình luận |
+| 2 | Thuật toán Turney | 200 bình luận (`data/comments_raw.csv`) | Điểm SO của các cụm + nhãn cho từng bình luận |
+| 3 | Từ điển cảm xúc không giám sát (kiểu WordNet) | Kết quả tìm kiếm tự cào trên DuckDuckGo | 50 từ tích cực + 50 từ tiêu cực |
 
 ---
 
@@ -17,7 +17,9 @@ Chia thành **3 việc**, đều chạy trên **cùng một bộ dữ liệu**:
 - Khi thu thập phải chọn **một chủ đề**: ở đây là **trí tuệ nhân tạo**.
 - Thu thập **200 bình luận** liên quan đến chủ đề đó.
 
-**Đã xong:** bộ 200 bình luận nằm ở `Phan1/data/comments_raw.csv` (nguồn Threads). Cả 3 nhóm dùng chung file này, không sửa.
+**Đã xong:** bộ 200 bình luận nằm ở `Phan1/data/comments_raw.csv` (nguồn Threads). **Nhóm 1 và nhóm 2** dùng chung file này, không ai sửa.
+
+**Nhóm 3 không dùng file này** để xây từ điển: nhóm 3 tự cào dữ liệu trên DuckDuckGo (xem mục Nhóm 3).
 
 ---
 
@@ -32,7 +34,7 @@ Gán nhãn thủ công theo nhóm **10 bình luận tích cực + 10 bình luậ
 - Cách làm phổ biến (self-training): cho máy đoán nhãn các bình luận chưa gán. Bình luận nào máy **rất tự tin** thì coi như đã có nhãn, thêm vào tập học. Rồi học lại, đoán lại, lặp nhiều lần, tập có nhãn lớn dần.
 
 ### Các bước
-1. Đọc và chọn 10 bình luận tích cực, 10 tiêu cực. Ghi `id` và nhãn lại (đề xuất lưu vào `data/labels_manual.csv`). **20 nhãn này cũng là bộ nhãn chung** để nhóm 2 và nhóm 3 kiểm tra kết quả của mình.
+1. Đọc và chọn 10 bình luận tích cực, 10 tiêu cực. Ghi `id` và nhãn lại (đề xuất lưu vào `data/labels_manual.csv`). **20 nhãn này cũng là bộ nhãn chung** để nhóm 2 kiểm tra kết quả của mình.
 2. Cho máy học từ 20 bình luận này.
 3. Máy đoán các bình luận còn lại, giữ lại những dự đoán chắc chắn, học lại, lặp.
 4. Kết quả: nhãn đoán cho toàn bộ 200 bình luận.
@@ -83,21 +85,48 @@ PMI (Pointwise Mutual Information) là thước đo "hai thứ cùng xuất hi�
 - Kết quả cuối: **50 từ khoá đặc trưng nhất cho tích cực** và **50 từ khoá đặc trưng nhất cho tiêu cực**.
 - Trình bày bằng **slide**. Demo là **tuỳ chọn**.
 
+### Dữ liệu của nhóm 3
+Nhóm 3 **không dùng 200 bình luận** để xây từ điển. Dữ liệu của nhóm là **kết quả tìm kiếm tự cào trên DuckDuckGo** (tiêu đề + đoạn trích của mỗi kết quả). Từ đó nhóm rút ra các từ mang cảm xúc.
+
 ### Hiểu đơn giản
-Ta muốn có một **từ điển cảm xúc**: danh sách từ nào tích cực, từ nào tiêu cực. Làm tay thì tốn công. Cách "không giám sát": chỉ đưa vào vài từ mẫu, rồi **để máy tự tìm thêm** các từ cùng nghĩa/cùng chiều.
+Ta muốn có một **từ điển cảm xúc**: danh sách từ nào tích cực, từ nào tiêu cực. Làm tay thì tốn công. Cách "không giám sát": chỉ đưa vào vài từ mẫu, rồi **để máy tự tìm thêm** các từ cùng chiều hoặc ngược chiều.
 
-Hai ý tưởng trong bài giảng:
-- **WordNet** (Kim & Hovy): từ nào là **đồng nghĩa** của từ tích cực thì cũng tích cực; từ **trái nghĩa** của nó thì tiêu cực. Cứ mở rộng dần từ các từ mẫu.
-- **Liên từ** (Hatzivassiloglou & McKeown): trong câu, **"và" thường nối hai từ cùng chiều** ("rẻ và bền" cùng tích cực), còn **"nhưng" thường nối hai từ ngược chiều** ("tốt nhưng đắt": đắt là tiêu cực). Dùng công cụ tìm kiếm để tìm các cụm như "tốt và ...", "tốt nhưng ...", lấy từ ở chỗ trống rồi suy ra cực tính.
+Bài giảng (`07 - sentiment.pptx`, slide 66–67) mô tả cách làm bằng WordNet (Kim & Hovy): đi từ vài từ mẫu, tìm từ **đồng nghĩa** và **trái nghĩa** của chúng, rồi lặp lại:
+- **Tập tích cực** = từ đồng nghĩa của từ tích cực + từ trái nghĩa của từ tiêu cực.
+- **Tập tiêu cực** = từ đồng nghĩa của từ tiêu cực + từ trái nghĩa của từ tích cực.
 
-Dấu nháy kép trong tìm kiếm nghĩa là "tìm đúng nguyên cụm này", nên rất tiện để tìm mẫu "tốt và ...".
+Tiếng Anh tra đồng nghĩa/trái nghĩa bằng WordNet. Tiếng Việt không có WordNet dùng được, nên **dùng DuckDuckGo thay cho WordNet**, đúng như thầy gợi ý.
+
+Bài giảng còn một cách bổ sung (Hatzivassiloglou & McKeown, slide 49 và 67): **"và" thường nối hai từ cùng chiều** ("rẻ và bền"), **"nhưng" thường nối hai từ ngược chiều** ("tốt nhưng đắt": *đắt* là tiêu cực).
+
+Dấu nháy kép trong tìm kiếm nghĩa là "tìm đúng nguyên cụm này".
 
 ### Các bước
-1. Chọn từ mẫu tích cực (ví dụ "tốt", "hay") và tiêu cực (ví dụ "tệ", "xấu").
-2. Từ mỗi từ mẫu, tìm các từ mới (đồng nghĩa/trái nghĩa hoặc qua liên từ "và/nhưng").
-3. Từ mới thành từ mẫu cho vòng kế tiếp; lặp vài vòng.
-4. Xếp hạng, lấy **50 từ tích cực** và **50 từ tiêu cực** đặc trưng nhất.
-5. Làm slide trình bày cách làm và kết quả (demo nếu muốn).
+1. **Chọn từ mẫu** (bản tiếng Việt của các từ trong slide):
+   - Tích cực: *tốt, hay*.
+   - Tiêu cực: *tệ, xấu* (có thể thêm *ác*).
+2. **Cào DuckDuckGo (bước thu dữ liệu của nhóm 3).** Với mỗi từ mẫu, tìm hai loại truy vấn:
+   - *Kiểu WordNet:* `"đồng nghĩa với tốt"`, `"trái nghĩa với tốt"`. Kết quả thường là các trang từ điển liệt kê sẵn từ đồng nghĩa/trái nghĩa.
+   - *Kiểu liên từ:* `"tốt và"`, `"tốt nhưng"`.
+   - Có thể thêm `trí tuệ nhân tạo` vào truy vấn để từ tìm được sát chủ đề hơn.
+
+   Lưu mọi kết quả vào một file CSV trong folder nhóm 3 (mỗi dòng: truy vấn, tiêu đề, đoạn trích, link). **Đây là bộ dữ liệu của nhóm 3**; lưu lại để khỏi phải cào lại.
+3. **Rút từ mới từ kết quả.** Đọc các đoạn trích, lấy những từ mang cảm xúc (chủ yếu là tính từ), xếp vào tập tích cực hay tiêu cực theo quy tắc ở trên. Ví dụ:
+   - "trái nghĩa với tốt" ra *kém* → *kém* vào tập tiêu cực.
+   - "tốt nhưng đắt" → *đắt* vào tập tiêu cực.
+4. **Lặp lại.** Dùng các từ mới làm từ mẫu cho vòng sau, làm 2–3 vòng. Mỗi vòng chỉ lấy khoảng 10 từ chắc chắn nhất cho mỗi chiều, nếu không số lần tìm tăng rất nhanh.
+5. **Lọc** (slide 66 có bước "Filter"):
+   - Bỏ từ nhiễu: từ nối, tên riêng, từ không mang cảm xúc.
+   - Từ rơi vào cả hai tập thì xem bên nào được nhắc nhiều hơn; không rõ thì bỏ.
+6. **Xếp hạng, lấy top 50.** Điểm của một từ = số lần được tìm thấy ở phía tích cực − số lần ở phía tiêu cực. Lấy **50 từ tích cực** và **50 từ tiêu cực** có điểm cao nhất.
+7. **Làm slide:** từ mẫu, các truy vấn đã dùng, ví dụ một từ được suy ra thế nào, bảng 50 + 50 từ, hạn chế. Demo là tuỳ chọn.
+
+*Tuỳ chọn:* thử áp từ điển lên 200 bình luận (đếm số từ tích cực và tiêu cực trong mỗi bình luận) để minh hoạ. Không bắt buộc.
+
+### Lưu ý thực tế
+- Cào DuckDuckGo bằng thư viện Python không chính thức (`ddgs`). Tìm liên tục dễ bị chặn tạm thời, nên mỗi lần tìm nghỉ vài giây.
+- DuckDuckGo **không trả về tổng số kết quả**, nên nhóm 3 đếm số lần từ xuất hiện trong các đoạn trích đã cào (không dùng "số kết quả tìm kiếm" như Turney).
+- Nên chạy thử vài truy vấn trước khi cào nhiều.
 
 ---
 
