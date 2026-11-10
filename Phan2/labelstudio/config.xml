@@ -1,0 +1,19 @@
+<View>
+  <Relations>
+    <Relation value="phát_triển"/>
+    <Relation value="thuộc_về"/>
+    <Relation value="làm_việc_tại"/>
+    <Relation value="nằm_ở"/>
+    <Relation value="sử_dụng"/>
+    <Relation value="cộng_sự"/>
+    <Relation value="đánh_giá_bằng"/>
+  </Relations>
+  <Labels name="label" toName="text">
+    <Label value="PER" background="#e74c3c"/>
+    <Label value="ORG" background="#3498db"/>
+    <Label value="LOC" background="#2ecc71"/>
+    <Label value="MISC" background="#f39c12"/>
+    <Label value="O" background="#d5d8dc"/>
+  </Labels>
+  <Text name="text" value="$text" granularity="word"/>
+</View>

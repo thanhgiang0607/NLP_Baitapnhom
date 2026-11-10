@@ -1,0 +1,47 @@
+Chủ thể,Loại CT,Quan hệ,Đối tượng,Loại ĐT
+OpenAI,ORG,phát_triển,DALL-E 3,MISC
+OpenAI,ORG,phát_triển,Codex,MISC
+OpenAI,ORG,nằm_ở,San Francisco,LOC
+Yoshua Bengio,PER,cộng_sự,Yann LeCun,PER
+David Ackley,PER,cộng_sự,Terry Sejnowski,PER
+Frank Rosenblatt,PER,phát_triển,perceptron,MISC
+Corinna Cortes,PER,cộng_sự,Vladimir Vapnik,PER
+Vladimir Vapnik,PER,phát_triển,Support Vector Machine,MISC
+Sepp Hochreiter,PER,cộng_sự,Jürgen Schmidhuber,PER
+Jürgen Schmidhuber,PER,phát_triển,Long Short-Term Memory,MISC
+Yann LeCunn,PER,phát_triển,LeNet,MISC
+IBM,ORG,phát_triển,Deep Blue,MISC
+Stanford,ORG,phát_triển,ImageNet,MISC
+Alex Krizhevsky,PER,phát_triển,AlexNet,MISC
+Ilya Sutskever,PER,cộng_sự,Geoffrey Hinton,PER
+Google DeepMind,ORG,phát_triển,AlphaGo,MISC
+OpenAI,ORG,phát_triển,ChatGPT,MISC
+ChatGPT,MISC,sử_dụng,GPT3.5,MISC
+Google DeepMind,ORG,phát_triển,AlphaZero,MISC
+Masahiko Fukushima,PER,phát_triển,Neocognitron,MISC
+Yann Le Cun,PER,làm_việc_tại,NYU,ORG
+Atomwise,ORG,phát_triển,AtomNet,MISC
+Facebook,ORG,phát_triển,DeepFace,MISC
+Alex Krizhevsky,PER,cộng_sự,Ilya Sutskever,PER
+Vladimir N. Vapnik,PER,phát_triển,SVM,MISC
+Vapnik,PER,cộng_sự,Corinna Cortes,PER
+Corinna Cortes,PER,cộng_sự,Vladimir N. Vapnik,PER
+Kunihiko Fukushima,PER,phát_triển,Neocognitron,MISC
+Yann LeCun,PER,làm_việc_tại,AT&T Labs,ORG
+AT&T Labs,ORG,phát_triển,LeNet-5,MISC
+Ilya Sutskever,PER,cộng_sự,Geoffrey Hinton,PER
+Geoffrey Hinton,PER,phát_triển,AlexNet,MISC
+Stuart Lloyd,PER,làm_việc_tại,Bell Labs,ORG
+PyTorch,MISC,sử_dụng,Torch,MISC
+PyTorch,MISC,thuộc_về,Linux Foundation,ORG
+Meta AI,ORG,phát_triển,PyTorch,MISC
+Uber,ORG,phát_triển,Pyro,MISC
+PyTorch Foundation,ORG,phát_triển,PyTorch,MISC
+PyTorch Foundation,ORG,thuộc_về,Linux Foundation,ORG
+AMD,ORG,phát_triển,ROCm,MISC
+Apple,ORG,phát_triển,Metal Framework,MISC
+Numba,MISC,sử_dụng,LLVM,MISC
+Google Brain,ORG,thuộc_về,Google,ORG
+Google Brain,ORG,phát_triển,DistBelief,MISC
+AP75,MISC,sử_dụng,IoU,MISC
+SORT,MISC,sử_dụng,bộ lọc Kalman,MISC

@@ -1,0 +1,4 @@
+,Precision,Recall,F1,Support(test)
+MISC,0.771,0.73,0.75,38
+ORG,0.833,0.769,0.8,13
+PER,0.7,0.875,0.778,8

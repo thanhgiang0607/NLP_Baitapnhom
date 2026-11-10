@@ -1,0 +1,1267 @@
+[
+ {
+  "id": 1,
+  "data": {
+   "text": "Đối tác thuê ngoài của OpenAI là Sama, một công ty dữ liệu huấn luyện có trụ sở tại San Francisco, California."
+  },
+  "annotations": [
+   {
+    "result": [
+     {
+      "value": {
+       "start": 23,
+       "end": 29,
+       "text": "OpenAI",
+       "labels": [
+        "ORG"
+       ]
+      },
+      "id": "0UAqFzWsDK",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+     },
+     {
+      "value": {
+       "start": 33,
+       "end": 37,
+       "text": "Sama",
+       "labels": [
+        "ORG"
+       ]
+      },
+      "id": "4FrUMp48Y3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+     },
+     {
+      "value": {
+       "start": 84,
+       "end": 97,
+       "text": "San Francisco",
+       "labels": [
+        "LOC"
+       ]
+      },
+      "id": "tT3QDgAL47",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+     },
+     {
+      "value": {
+       "start": 99,
+       "end": 109,
+       "text": "California",
+       "labels": [
+        "LOC"
+       ]
+      },
+      "id": "D1qXIaSyZP",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 2,
+  "data": {
+   "text": "Vào tháng 10 năm 2023, mô hình tạo hình ảnh DALL-E 3 của OpenAI đã được tích hợp vào ChatGPT."
+  },
+  "annotations": [
+   {
+    "result": [
+     {
+      "value": {
+       "start": 44,
+       "end": 52,
+       "text": "DALL-E 3",
+       "labels": [
+        "ALGO"
+       ]
+      },
+      "id": "aE1pu1lJo7",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+     },
+     {
+      "value": {
+       "start": 57,
+       "end": 63,
+       "text": "OpenAI",
+       "labels": [
+        "ORG"
+       ]
+      },
+      "id": "XBetF5gIRH",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+     },
+     {
+      "value": {
+       "start": 85,
+       "end": 92,
+       "text": "ChatGPT",
+       "labels": [
+        "TOOL"
+       ]
+      },
+      "id": "YH7LKBKxJs",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction-changed"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 3,
+  "data": {
+   "text": "Vào tháng 5 năm 2025, OpenAI đã giới thiệu một tác nhân chuyên biệt cho lập trình mang tên Codex."
+  },
+  "annotations": [
+   {
+    "result": [
+     {
+      "value": {
+       "start": 22,
+       "end": 28,
+       "text": "OpenAI",
+       "labels": [
+        "ORG"
+       ]
+      },
+      "id": "llLODfU250",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+     },
+     {
+      "value": {
+       "start": 91,
+       "end": 96,
+       "text": "Codex",
+       "labels": [
+        "ALGO"
+       ]
+      },
+      "id": "35HyRrY03K",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 4,
+  "data": {
+   "text": "Vào tháng 1 năm 2023, Hội nghị Quốc tế về Học máy (ICML) đã cấm mọi hành vi sử dụng ChatGPT hoặc các mô hình ngôn ngữ lớn khác mà không được khai báo để tạo văn bản trong các bài báo nộp hội nghị."
+  },
+  "annotations": [
+   {
+    "result": [
+     {
+      "value": {
+       "start": 84,
+       "end": 91,
+       "text": "ChatGPT",
+       "labels": [
+        "TOOL"
+       ]
+      },
+      "id": "6JBO94XfLE",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 5,
+  "data": {
+   "text": "Trong một nghiên cứu, nó đã đưa ra các giải pháp bằng ngôn ngữ C, C++, Python và MATLAB cho các bài toán trong lĩnh vực vật lý tính toán."
+  },
+  "annotations": [
+   {
+    "result": [
+     {
+      "value": {
+       "start": 63,
+       "end": 64,
+       "text": "C",
+       "labels": [
+        "TOOL"
+       ]
+      },
+      "id": "N0pThnXuYg",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+     },
+     {
+      "value": {
+       "start": 66,
+       "end": 69,
+       "text": "C++",
+       "labels": [
+        "TOOL"
+       ]
+      },
+      "id": "jRcJ4HQbNL",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+     },
+     {
+      "value": {
+       "start": 71,
+       "end": 77,
+       "text": "Python",
+       "labels": [
+        "TOOL"
+       ]
+      },
+      "id": "Jyw8cb7lhn",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+     },
+     {
+      "value": {
+       "start": 81,
+       "end": 87,
+       "text": "MATLAB",
+       "labels": [
+        "TOOL"
+       ]
+      },
+      "id": "X6bAgqnOvl",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 6,
+  "data": {
+   "text": "Check Point Research và một số tổ chức khác lưu ý rằng ChatGPT có thể viết các email tấn công giả mạo (phishing) và mã độc, đặc biệt là khi kết hợp với OpenAI Codex."
+  },
+  "annotations": [
+   {
+    "result": [
+     {
+      "value": {
+       "start": 0,
+       "end": 20,
+       "text": "Check Point Research",
+       "labels": [
+        "ORG"
+       ]
+      },
+      "id": "Fcg9mwTZ4k",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+     },
+     {
+      "value": {
+       "start": 55,
+       "end": 62,
+       "text": "ChatGPT",
+       "labels": [
+        "TOOL"
+       ]
+      },
+      "id": "P7dP0vpLBk",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+     },
+     {
+      "value": {
+       "start": 152,
+       "end": 164,
+       "text": "OpenAI Codex",
+       "labels": [
+        "ALGO"
+       ]
+      },
+      "id": "DzJFtwZpIa",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 7,
+  "data": {
+   "text": "ChatGPT được cho ra mắt vào ngày 30 tháng 11 năm 2022, bởi OpenAI có trụ sở tại San Francisco, cũng là nhà sáng tạo ra DALL·E 2 và Whisper."
+  },
+  "annotations": [
+   {
+    "result": [
+     {
+      "value": {
+       "start": 0,
+       "end": 7,
+       "text": "ChatGPT",
+       "labels": [
+        "TOOL"
+       ]
+      },
+      "id": "Tucro7vrw6",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+     },
+     {
+      "value": {
+       "start": 59,
+       "end": 65,
+       "text": "OpenAI",
+       "labels": [
+        "ORG"
+       ]
+      },
+      "id": "NMSyzOaluo",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+     },
+     {
+      "value": {
+       "start": 80,
+       "end": 93,
+       "text": "San Francisco",
+       "labels": [
+        "LOC"
+       ]
+      },
+      "id": "Nx2JzyRzPc",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+     },
+     {
+      "value": {
+       "start": 119,
+       "end": 127,
+       "text": "DALL·E 2",
+       "labels": [
+        "ALGO"
+       ]
+      },
+      "id": "BqjGEIU2Et",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+     },
+     {
+      "value": {
+       "start": 131,
+       "end": 138,
+       "text": "Whisper",
+       "labels": [
+        "ALGO"
+       ]
+      },
+      "id": "CY2Yl9NfS9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 8,
+  "data": {
+   "text": "Năm 2004, Google xuất bản một bài báo về một quá trình gọi là MapReduce sử dụng một kiến trúc tương tự."
+  },
+  "annotations": [
+   {
+    "result": [
+     {
+      "value": {
+       "start": 10,
+       "end": 16,
+       "text": "Google",
+       "labels": [
+        "ORG"
+       ]
+      },
+      "id": "yQtnSaZGgh",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+     },
+     {
+      "value": {
+       "start": 62,
+       "end": 71,
+       "text": "MapReduce",
+       "labels": [
+        "ALGO"
+       ]
+      },
+      "id": "O2r8g0yfrC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 9,
+  "data": {
+   "text": "Do đó, Google đã triển khai khuôn mẫu MapReduce thông qua dự án mã nguồn mở Apache Hadoop."
+  },
+  "annotations": [
+   {
+    "result": [
+     {
+      "value": {
+       "start": 7,
+       "end": 13,
+       "text": "Google",
+       "labels": [
+        "ORG"
+       ]
+      },
+      "id": "X1iGOv2rbc",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+     },
+     {
+      "value": {
+       "start": 38,
+       "end": 47,
+       "text": "MapReduce",
+       "labels": [
+        "ALGO"
+       ]
+      },
+      "id": "QI664cUROS",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+     },
+     {
+      "value": {
+       "start": 76,
+       "end": 89,
+       "text": "Apache Hadoop",
+       "labels": [
+        "TOOL"
+       ]
+      },
+      "id": "3NxHmKajuW",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 10,
+  "data": {
+   "text": "Năm 2018, Hinton được trao Giải Turing cùng Yoshua Bengio và Yann LeCun; bộ ba này được mệnh danh là những \"Bố già AI\" (Godfather of AI) nhờ những đóng góp nền tảng cho lĩnh vực mạng neuron nhân tạo và học sâu."
+  },
+  "annotations": [
+   {
+    "result": [
+     {
+      "value": {
+       "start": 10,
+       "end": 16,
+       "text": "Hinton",
+       "labels": [
+        "PER"
+       ]
+      },
+      "id": "SuMck8ryIs",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+     },
+     {
+      "value": {
+       "start": 44,
+       "end": 57,
+       "text": "Yoshua Bengio",
+       "labels": [
+        "PER"
+       ]
+      },
+      "id": "DoclGeyuzg",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+     },
+     {
+      "value": {
+       "start": 61,
+       "end": 71,
+       "text": "Yann LeCun",
+       "labels": [
+        "PER"
+       ]
+      },
+      "id": "4D08vDRAsT",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 11,
+  "data": {
+   "text": "Năm 1985, ông đồng phát minh máy Boltzmann cùng David Ackley và Terry Sejnowski, một mô hình mạng neuron xác suất có khả năng học các biểu diễn dữ liệu không có giám sát."
+  },
+  "annotations": [
+   {
+    "result": [
+     {
+      "value": {
+       "start": 29,
+       "end": 42,
+       "text": "máy Boltzmann",
+       "labels": [
+        "ALGO"
+       ]
+      },
+      "id": "35Mx8NefUd",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+     },
+     {
+      "value": {
+       "start": 48,
+       "end": 60,
+       "text": "David Ackley",
+       "labels": [
+        "PER"
+       ]
+      },
+      "id": "ayGBEKQAw9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+     },
+     {
+      "value": {
+       "start": 64,
+       "end": 79,
+       "text": "Terry Sejnowski",
+       "labels": [
+        "PER"
+       ]
+      },
+      "id": "qWAwd1R3BP",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 12,
+  "data": {
+   "text": "Năm 2008, ông phát triển phương pháp trực quan hóa dữ liệu t-SNE cùng Laurens van der Maaten, cho phép chiếu dữ liệu nhiều chiều xuống không gian hai hoặc ba chiều để quan sát cấu trúc phân cụm."
+  },
+  "annotations": [
+   {
+    "result": [
+     {
+      "value": {
+       "start": 59,
+       "end": 64,
+       "text": "t-SNE",
+       "labels": [
+        "ALGO"
+       ]
+      },
+      "id": "hymc6njmxH",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+     },
+     {
+      "value": {
+       "start": 70,
+       "end": 92,
+       "text": "Laurens van der Maaten",
+       "labels": [
+        "PER"
+       ]
+      },
+      "id": "j98jzQ2E4t",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 13,
+  "data": {
+   "text": "Học máy (tiếng Anh: Machine learning) là một lĩnh vực của trí tuệ nhân tạo (AI), hướng tới việc xây dựng các thuật toán và mô hình có khả năng \"học\" từ dữ liệu huấn luyện."
+  },
+  "annotations": [
+   {
+    "result": []
+   }
+  ]
+ },
+ {
+  "id": 14,
+  "data": {
+   "text": "Thuật ngữ \"học máy\" được Arthur Samuel, nhân viên của IBM và người tiên phong trong lĩnh vực trò chơi máy tính và trí tuệ nhân tạo, đặt ra vào năm 1959."
+  },
+  "annotations": [
+   {
+    "result": [
+     {
+      "value": {
+       "start": 25,
+       "end": 38,
+       "text": "Arthur Samuel",
+       "labels": [
+        "PER"
+       ]
+      },
+      "id": "EEPmLnv73Y",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+     },
+     {
+      "value": {
+       "start": 54,
+       "end": 57,
+       "text": "IBM",
+       "labels": [
+        "ORG"
+       ]
+      },
+      "id": "cjpW0KSYef",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 15,
+  "data": {
+   "text": "Năm 1943, nhà logic học Walter Pitts và nhà thần kinh học Warren McCulloch đã tạo ra mô hình toán học đầu tiên của mạng neuron giúp mô phỏng lại cách suy nghĩ của con người."
+  },
+  "annotations": [
+   {
+    "result": [
+     {
+      "value": {
+       "start": 24,
+       "end": 36,
+       "text": "Walter Pitts",
+       "labels": [
+        "PER"
+       ]
+      },
+      "id": "1cnca0ujjO",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+     },
+     {
+      "value": {
+       "start": 58,
+       "end": 74,
+       "text": "Warren McCulloch",
+       "labels": [
+        "PER"
+       ]
+      },
+      "id": "8F3FJQXU9U",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 16,
+  "data": {
+   "text": "Năm 1957, nhà tâm lý học Frank Rosenblatt giới thiệu mô hình perceptron – mạng thần kinh nhân tạo đầu tiên."
+  },
+  "annotations": [
+   {
+    "result": [
+     {
+      "value": {
+       "start": 25,
+       "end": 41,
+       "text": "Frank Rosenblatt",
+       "labels": [
+        "PER"
+       ]
+      },
+      "id": "4mHLZDXyK0",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+     },
+     {
+      "value": {
+       "start": 61,
+       "end": 71,
+       "text": "perceptron",
+       "labels": [
+        "ALGO"
+       ]
+      },
+      "id": "XOalFpe16s",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 17,
+  "data": {
+   "text": "Năm 1995, Corinna Cortes và Vladimir Vapnik giới thiệu thuật toán Support Vector Machine (SVM) giúp phân loại hình ảnh."
+  },
+  "annotations": [
+   {
+    "result": [
+     {
+      "value": {
+       "start": 10,
+       "end": 24,
+       "text": "Corinna Cortes",
+       "labels": [
+        "PER"
+       ]
+      },
+      "id": "zYdNhrZdcz",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+     },
+     {
+      "value": {
+       "start": 28,
+       "end": 43,
+       "text": "Vladimir Vapnik",
+       "labels": [
+        "PER"
+       ]
+      },
+      "id": "E1SPj9zLxc",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+     },
+     {
+      "value": {
+       "start": 66,
+       "end": 88,
+       "text": "Support Vector Machine",
+       "labels": [
+        "ALGO"
+       ]
+      },
+      "id": "DjcMNgIvxW",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+     },
+     {
+      "value": {
+       "start": 90,
+       "end": 93,
+       "text": "SVM",
+       "labels": [
+        "ALGO"
+       ]
+      },
+      "id": "E2LCNuhQMW",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 18,
+  "data": {
+   "text": "2 năm sau, Sepp Hochreiter và Jürgen Schmidhuber giới thiệu kiến trúc Long Short-Term Memory (LSTM), giải quyết vấn đề gradient biến mất (vanishing gradient) trong mạng thần kinh hồi quy giúp cải thiện khả năng xử lý dữ liệu chuỗi dài như văn bản."
+  },
+  "annotations": [
+   {
+    "result": [
+     {
+      "value": {
+       "start": 11,
+       "end": 26,
+       "text": "Sepp Hochreiter",
+       "labels": [
+        "PER"
+       ]
+      },
+      "id": "h4X42QYGWl",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+     },
+     {
+      "value": {
+       "start": 30,
+       "end": 48,
+       "text": "Jürgen Schmidhuber",
+       "labels": [
+        "PER"
+       ]
+      },
+      "id": "WBUCWec5E3",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+     },
+     {
+      "value": {
+       "start": 70,
+       "end": 92,
+       "text": "Long Short-Term Memory",
+       "labels": [
+        "ALGO"
+       ]
+      },
+      "id": "6PJnfY3WRA",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+     },
+     {
+      "value": {
+       "start": 94,
+       "end": 98,
+       "text": "LSTM",
+       "labels": [
+        "ALGO"
+       ]
+      },
+      "id": "shAJ56zgVT",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 19,
+  "data": {
+   "text": "Đến năm 1998, Yann LeCunn và cộng sự cho ra mắt mô hình LeNet sử dụng mạng neuron tích chập để nhận diện văn bản viết tay."
+  },
+  "annotations": [
+   {
+    "result": [
+     {
+      "value": {
+       "start": 14,
+       "end": 25,
+       "text": "Yann LeCunn",
+       "labels": [
+        "PER"
+       ]
+      },
+      "id": "bBQb47Seew",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+     },
+     {
+      "value": {
+       "start": 56,
+       "end": 61,
+       "text": "LeNet",
+       "labels": [
+        "ALGO"
+       ]
+      },
+      "id": "bva8Ye3mmP",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 20,
+  "data": {
+   "text": "Cột mốc văn hóa lớn nhất của thập kỷ là vào tháng 5 năm 1997, khi máy tính Deep Blue của IBM trở thành máy tính đầu tiên trong lịch sử đánh bại đương kim vô địch cờ vua thế giới Garry Kasparov."
+  },
+  "annotations": [
+   {
+    "result": [
+     {
+      "value": {
+       "start": 75,
+       "end": 84,
+       "text": "Deep Blue",
+       "labels": [
+        "ALGO"
+       ]
+      },
+      "id": "6hawbL1lgv",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+     },
+     {
+      "value": {
+       "start": 89,
+       "end": 92,
+       "text": "IBM",
+       "labels": [
+        "ORG"
+       ]
+      },
+      "id": "7i7wDs67Nl",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+     },
+     {
+      "value": {
+       "start": 178,
+       "end": 192,
+       "text": "Garry Kasparov",
+       "labels": [
+        "PER"
+       ]
+      },
+      "id": "9gKj36XtpU",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 21,
+  "data": {
+   "text": "Bước sang thế kỷ 21, các nhà nghiên cứu tại Stanford công bố bộ tập dữ liệu ImageNet với hơn 14 triệu ảnh được dán nhãn thuộc hàng nghìn mục khác nhau."
+  },
+  "annotations": [
+   {
+    "result": [
+     {
+      "value": {
+       "start": 44,
+       "end": 52,
+       "text": "Stanford",
+       "labels": [
+        "ORG"
+       ]
+      },
+      "id": "sAcibeeAIT",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+     },
+     {
+      "value": {
+       "start": 76,
+       "end": 84,
+       "text": "ImageNet",
+       "labels": [
+        "DATASET"
+       ]
+      },
+      "id": "iANfBw6dzz",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 22,
+  "data": {
+   "text": "Mô hình AlexNet của Alex Krizhevsky, Ilya Sutskever và Geoffrey Hinton giành chiến thắng tại ILSVRC với tỉ lệ chính xác hơn 10 phần trăm so với đối thủ hạng 2, cũng dùng mạng neuron tích chập giống LeNet."
+  },
+  "annotations": [
+   {
+    "result": [
+     {
+      "value": {
+       "start": 8,
+       "end": 15,
+       "text": "AlexNet",
+       "labels": [
+        "ALGO"
+       ]
+      },
+      "id": "TtmsD6XrIQ",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+     },
+     {
+      "value": {
+       "start": 20,
+       "end": 35,
+       "text": "Alex Krizhevsky",
+       "labels": [
+        "PER"
+       ]
+      },
+      "id": "XByVApC6iC",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+     },
+     {
+      "value": {
+       "start": 37,
+       "end": 51,
+       "text": "Ilya Sutskever",
+       "labels": [
+        "PER"
+       ]
+      },
+      "id": "NDmaRMasVM",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+     },
+     {
+      "value": {
+       "start": 55,
+       "end": 70,
+       "text": "Geoffrey Hinton",
+       "labels": [
+        "PER"
+       ]
+      },
+      "id": "HjRDQVoVr9",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+     },
+     {
+      "value": {
+       "start": 104,
+       "end": 119,
+       "text": "tỉ lệ chính xác",
+       "labels": [
+        "METRIC"
+       ]
+      },
+      "id": "h2cpGKygpr",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+     },
+     {
+      "value": {
+       "start": 198,
+       "end": 203,
+       "text": "LeNet",
+       "labels": [
+        "ALGO"
+       ]
+      },
+      "id": "U4KcXsvGp5",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": 23,
+  "data": {
+   "text": "Tháng 3 năm 2016, chương trình AlphaGo của Google DeepMind đánh bại kỳ thủ cờ vây chuyên nghiệp Lee Sedol với tỷ số 4–1 trong một trận đấu 5 ván tại Seoul."
+  },
+  "annotations": [
+   {
+    "result": [
+     {
+      "value": {
+       "start": 31,
+       "end": 38,
+       "text": "AlphaGo",
+       "labels": [
+        "ALGO"
+       ]
+      },
+      "id": "kzrGJMGzNz",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+     },
+     {
+      "value": {
+       "start": 43,
+       "end": 58,
+       "text": "Google DeepMind",
+       "labels": [
+        "ORG"
+       ]
+      },
+      "id": "WWsxMjRxKi",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+     },
+     {
+      "value": {
+       "start": 96,
+       "end": 105,
+       "text": "Lee Sedol",
+       "labels": [
+        "PER"
+       ]
+      },
+      "id": "PvDzDRtOds",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+     },
+     {
+      "value": {
+       "start": 149,
+       "end": 154,
+       "text": "Seoul",
+       "labels": [
+        "LOC"
+       ]
+      },
+      "id": "UdMbD3aGe1",
+      "from_name": "label",
+      "to_name": "text",
+      "type": "labels",
+      "origin": "prediction"
+     }
+    ]
+   }
+  ]
+ }
+]

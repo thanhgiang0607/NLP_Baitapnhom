@@ -1,0 +1,584 @@
+[
+  {
+    "id": 1,
+    "data": {
+      "text": "Đối tác thuê ngoài của OpenAI là Sama, một công ty dữ liệu huấn luyện có trụ sở tại San Francisco, California."
+    }
+  },
+  {
+    "id": 2,
+    "data": {
+      "text": "Vào tháng 10 năm 2023, mô hình tạo hình ảnh DALL-E 3 của OpenAI đã được tích hợp vào ChatGPT."
+    }
+  },
+  {
+    "id": 3,
+    "data": {
+      "text": "Vào tháng 5 năm 2025, OpenAI đã giới thiệu một tác nhân chuyên biệt cho lập trình mang tên Codex."
+    }
+  },
+  {
+    "id": 4,
+    "data": {
+      "text": "Vào tháng 1 năm 2023, Hội nghị Quốc tế về Học máy (ICML) đã cấm mọi hành vi sử dụng ChatGPT hoặc các mô hình ngôn ngữ lớn khác mà không được khai báo để tạo văn bản trong các bài báo nộp hội nghị."
+    }
+  },
+  {
+    "id": 5,
+    "data": {
+      "text": "Trong một nghiên cứu, nó đã đưa ra các giải pháp bằng ngôn ngữ C, C++, Python và MATLAB cho các bài toán trong lĩnh vực vật lý tính toán."
+    }
+  },
+  {
+    "id": 6,
+    "data": {
+      "text": "Check Point Research và một số tổ chức khác lưu ý rằng ChatGPT có thể viết các email tấn công giả mạo (phishing) và mã độc, đặc biệt là khi kết hợp với OpenAI Codex."
+    }
+  },
+  {
+    "id": 7,
+    "data": {
+      "text": "ChatGPT được cho ra mắt vào ngày 30 tháng 11 năm 2022, bởi OpenAI có trụ sở tại San Francisco, cũng là nhà sáng tạo ra DALL·E 2 và Whisper."
+    }
+  },
+  {
+    "id": 8,
+    "data": {
+      "text": "Năm 2004, Google xuất bản một bài báo về một quá trình gọi là MapReduce sử dụng một kiến trúc tương tự."
+    }
+  },
+  {
+    "id": 9,
+    "data": {
+      "text": "Do đó, Google đã triển khai khuôn mẫu MapReduce thông qua dự án mã nguồn mở Apache Hadoop."
+    }
+  },
+  {
+    "id": 10,
+    "data": {
+      "text": "Năm 2018, Hinton được trao Giải Turing cùng Yoshua Bengio và Yann LeCun; bộ ba này được mệnh danh là những \"Bố già AI\" (Godfather of AI) nhờ những đóng góp nền tảng cho lĩnh vực mạng neuron nhân tạo và học sâu."
+    }
+  },
+  {
+    "id": 11,
+    "data": {
+      "text": "Năm 1985, ông đồng phát minh máy Boltzmann cùng David Ackley và Terry Sejnowski, một mô hình mạng neuron xác suất có khả năng học các biểu diễn dữ liệu không có giám sát."
+    }
+  },
+  {
+    "id": 12,
+    "data": {
+      "text": "Năm 2008, ông phát triển phương pháp trực quan hóa dữ liệu t-SNE cùng Laurens van der Maaten, cho phép chiếu dữ liệu nhiều chiều xuống không gian hai hoặc ba chiều để quan sát cấu trúc phân cụm."
+    }
+  },
+  {
+    "id": 13,
+    "data": {
+      "text": "Học máy (tiếng Anh: Machine learning) là một lĩnh vực của trí tuệ nhân tạo (AI), hướng tới việc xây dựng các thuật toán và mô hình có khả năng \"học\" từ dữ liệu huấn luyện."
+    }
+  },
+  {
+    "id": 14,
+    "data": {
+      "text": "Thuật ngữ \"học máy\" được Arthur Samuel, nhân viên của IBM và người tiên phong trong lĩnh vực trò chơi máy tính và trí tuệ nhân tạo, đặt ra vào năm 1959."
+    }
+  },
+  {
+    "id": 15,
+    "data": {
+      "text": "Năm 1943, nhà logic học Walter Pitts và nhà thần kinh học Warren McCulloch đã tạo ra mô hình toán học đầu tiên của mạng neuron giúp mô phỏng lại cách suy nghĩ của con người."
+    }
+  },
+  {
+    "id": 16,
+    "data": {
+      "text": "Năm 1957, nhà tâm lý học Frank Rosenblatt giới thiệu mô hình perceptron – mạng thần kinh nhân tạo đầu tiên."
+    }
+  },
+  {
+    "id": 17,
+    "data": {
+      "text": "Năm 1995, Corinna Cortes và Vladimir Vapnik giới thiệu thuật toán Support Vector Machine (SVM) giúp phân loại hình ảnh."
+    }
+  },
+  {
+    "id": 18,
+    "data": {
+      "text": "2 năm sau, Sepp Hochreiter và Jürgen Schmidhuber giới thiệu kiến trúc Long Short-Term Memory (LSTM), giải quyết vấn đề gradient biến mất (vanishing gradient) trong mạng thần kinh hồi quy giúp cải thiện khả năng xử lý dữ liệu chuỗi dài như văn bản."
+    }
+  },
+  {
+    "id": 19,
+    "data": {
+      "text": "Đến năm 1998, Yann LeCunn và cộng sự cho ra mắt mô hình LeNet sử dụng mạng neuron tích chập để nhận diện văn bản viết tay."
+    }
+  },
+  {
+    "id": 20,
+    "data": {
+      "text": "Cột mốc văn hóa lớn nhất của thập kỷ là vào tháng 5 năm 1997, khi máy tính Deep Blue của IBM trở thành máy tính đầu tiên trong lịch sử đánh bại đương kim vô địch cờ vua thế giới Garry Kasparov."
+    }
+  },
+  {
+    "id": 21,
+    "data": {
+      "text": "Bước sang thế kỷ 21, các nhà nghiên cứu tại Stanford công bố bộ tập dữ liệu ImageNet với hơn 14 triệu ảnh được dán nhãn thuộc hàng nghìn mục khác nhau."
+    }
+  },
+  {
+    "id": 22,
+    "data": {
+      "text": "Mô hình AlexNet của Alex Krizhevsky, Ilya Sutskever và Geoffrey Hinton giành chiến thắng tại ILSVRC với tỉ lệ chính xác hơn 10 phần trăm so với đối thủ hạng 2, cũng dùng mạng neuron tích chập giống LeNet."
+    }
+  },
+  {
+    "id": 23,
+    "data": {
+      "text": "Tháng 3 năm 2016, chương trình AlphaGo của Google DeepMind đánh bại kỳ thủ cờ vây chuyên nghiệp Lee Sedol với tỷ số 4–1 trong một trận đấu 5 ván tại Seoul."
+    }
+  },
+  {
+    "id": 24,
+    "data": {
+      "text": "Tháng 11 năm 2022, OpenAI ra mắt ChatGPT dựa trên mô hình GPT3.5 và ghi nhận hơn 1 triệu người dùng chỉ trong 5 ngày."
+    }
+  },
+  {
+    "id": 25,
+    "data": {
+      "text": "Ngoài robot, học tăng cường cũng là nền tảng của các hệ thống chơi game như AlphaGo và AlphaZero của Google DeepMind."
+    }
+  },
+  {
+    "id": 26,
+    "data": {
+      "text": "Các kiến trúc học sâu, đặc biệt là những kiến trúc được xây dựng từ mạng neuron nhân tạo (ANN), đã từng thống trị ít nhất là tới Neocognitron được giới thiệu bởi Masahiko Fukushima vào năm 1980."
+    }
+  },
+  {
+    "id": 27,
+    "data": {
+      "text": "Năm 1989, Yann Le Cun và các cộng sự đã có thể áp dụng các thuật toán truyền ngược tiêu chuẩn, khoảng từ năm 1974, đối với một mạng neuron sâu với mục đích nhận dạng chữ viết taymã ZIP trong các bức thư."
+    }
+  },
+  {
+    "id": 28,
+    "data": {
+      "text": "Phương pháp khác là mạng bộ nhớ dài ngắn hạn (LSTM) của Hochreiter & Schmidhuber (1997)."
+    }
+  },
+  {
+    "id": 29,
+    "data": {
+      "text": "Trong năm 2009, các mạng LSTM đa chiều sâu đã chiến thắng ba cuộc thi ICDAR năm 2009 trong nhận dạng chữ viết tay, mà không có bất kỳ kiến thức sẵn có về ba ngôn ngữ để được học."
+    }
+  },
+  {
+    "id": 30,
+    "data": {
+      "text": "Phương pháp này tốt hơn tất cả các kỹ thuật máy học khác trong việc giải bài toán cũ nổi tiếng MNIST chữ số viết tay của Yann Le Cun và các đồng nghiệp tại NYU."
+    }
+  },
+  {
+    "id": 31,
+    "data": {
+      "text": "Kết quả tốt nhất hiện nay trên MNIST là tỷ lệ lỗi 0,23%, đạt được bởi Ciresan và các cộng sự vào năm 2012."
+    }
+  },
+  {
+    "id": 32,
+    "data": {
+      "text": "Các nhà nghiên cứu đến từ Google và Stanford đã mở rộng học sâu để khám phá dược phẩm bằng cách kết hợp dữ liệu từ nhiều nguồn khác nhau."
+    }
+  },
+  {
+    "id": 33,
+    "data": {
+      "text": "Năm 2015, Atomwise giới thiệu AtomNet, mạng neuron học sâu đầu tiên dành cho thiết kế dược phẩm dựa trên cấu trúc hợp lý."
+    }
+  },
+  {
+    "id": 34,
+    "data": {
+      "text": "Điển hình là nhóm nghiên cứu về trí tuệ nhân tạo của Facebook đã tạo ra phần mềm DeepFace có khả năng nhận dạng khuôn mặt tốt như con người với độ chính xác khoảng 97,35%."
+    }
+  },
+  {
+    "id": 35,
+    "data": {
+      "text": "Vào tháng 12 năm 2013, Facebook đã tuyển Yann Le Cun đứng đầu phòng thí nghiệm trí tuệ nhân tạo (AI) mới của họ hoạt động ở California, London và New York."
+    }
+  },
+  {
+    "id": 36,
+    "data": {
+      "text": "Vào cuối năm 2014, Facebook cũng tuyển Vladimir Vapnik, nhà phát triển chính của lý thuyết Vapnik-Chervonenkis về học thống kê, và đồng phát minh ra phương pháp máy vector hỗ trợ."
+    }
+  },
+  {
+    "id": 37,
+    "data": {
+      "text": "Vào tháng 3 năm 2013, Google tuyển Geoffrey Hinton và hai sinh viên tốt nghiệp của ông, Alex Krizhevsky và Ilya Sutskever."
+    }
+  },
+  {
+    "id": 38,
+    "data": {
+      "text": "Baidu đã thuê Andrew Ng để lãnh đạo phòng thí nghiệm nghiên cứu của mình đặt trụ sở tại thung lũng Silicon mới tập trung vào học sâu."
+    }
+  },
+  {
+    "id": 39,
+    "data": {
+      "text": "Thuật toán SVM ban đầu được tìm ra bởi Vladimir N. Vapnik và dạng chuẩn hiện nay sử dụng Biên mềm được tìm ra bởi Vapnik và Corinna Cortes năm 1995."
+    }
+  },
+  {
+    "id": 40,
+    "data": {
+      "text": "Năm 1995, Corinna Cortes và Vladimir N. Vapnik đề xuất một ý tưởng mới cho phép thuật toán gán nhãn sai cho một số ví dụ luyện tập."
+    }
+  },
+  {
+    "id": 41,
+    "data": {
+      "text": "Neocognitron (1980): Kunihiko Fukushima đề xuất mô hình Neocognitron, kiến trúc nhân tạo đầu tiên kết hợp các lớp tích chập và lớp gom cụm (pooling), có khả năng nhận dạng mẫu không phụ thuộc vào vị trí."
+    }
+  },
+  {
+    "id": 42,
+    "data": {
+      "text": "LeNet-5 (1998): Yann LeCun và các đồng sự tại AT&T Labs đã kết hợp phép tích chập với thuật toán lan truyền ngược để tạo ra LeNet-5, mô hình nhận dạng chữ số viết tay trên séc ngân hàng thành công thương mại đầu tiên."
+    }
+  },
+  {
+    "id": 43,
+    "data": {
+      "text": "Bước ngoặt AlexNet (2012): Alex Krizhevsky, Ilya Sutskever và Geoffrey Hinton phát triển AlexNet, sử dụng GPU để huấn luyện mạng CNN sâu trên tập dữ liệu ImageNet và giành chiến thắng áp đảo tại cuộc thi ILSVRC 2012."
+    }
+  },
+  {
+    "id": 44,
+    "data": {
+      "text": "Thị giác máy tính: Phân loại ảnh, phát hiện vật thể (YOLO, R-CNN), phân đoạn hình ảnh (U-Net)."
+    }
+  },
+  {
+    "id": 45,
+    "data": {
+      "text": "Thuật ngữ \" k -means\" được James MacQueen sử dụng lần đầu tiên vào năm 1967, mặc dù ý tưởng này quay trở lại Hugo Steinhaus vào năm 1956."
+    }
+  },
+  {
+    "id": 46,
+    "data": {
+      "text": "Thuật toán tiêu chuẩn được đề xuất lần đầu tiên bởi Stuart Lloyd của Bell Labs vào năm 1957 như một kỹ thuật cho điều chế mã xung, mặc dù nó không được xuất bản dưới dạng một bài báo cho đến năm 1982."
+    }
+  },
+  {
+    "id": 47,
+    "data": {
+      "text": "PyTorch là một framework học máy dựa trên thư viện Torch, được sử dụng trong lĩnh vực thị giác máy tính và xử lý ngôn ngữ tự nhiên, do Meta AI phát triển và ngày nay là một phần của Linux Foundation."
+    }
+  },
+  {
+    "id": 48,
+    "data": {
+      "text": "Mặc dù được phát triển chính yếu ở dạng giao diện ngôn ngữ Python, PyTorch cũng hỗ trợ giao diện C++."
+    }
+  },
+  {
+    "id": 49,
+    "data": {
+      "text": "Nhiều phần mềm học sâu được xây dựng theo PyTorch, bao gồm Tesla Autopilot, Pyro của Uber, Hugging Face's Transformers, PyTorch Lightning, và Catalyst."
+    }
+  },
+  {
+    "id": 50,
+    "data": {
+      "text": "Meta (trước đó là Facebook) vận hành cả PyTorch và Convolutional Architecture for Fast Feature Embedding (Caffe2), nhưng các mô hình được xác định do 2 framework không tương thích với nhau."
+    }
+  },
+  {
+    "id": 51,
+    "data": {
+      "text": "Dự án The Open Neural Network Exchange (ONNX) do Meta và Microsoft sáng lập tháng 9 năm 2017 cho việc chuyển đổi giữa các framework."
+    }
+  },
+  {
+    "id": 52,
+    "data": {
+      "text": "Vào tháng 9 năm 2022, Meta thông báo PyTorch sẽ được quản lý bởi PyTorch Foundation - một tổ chức độc lập mới được thành lập nhưng vẫn là công ty con của Linux Foundation."
+    }
+  },
+  {
+    "id": 53,
+    "data": {
+      "text": "PyTorch Tensor giống với mảng NumPy, nhưng có thể vận hành được trên GPU NVIDIA có hỗ trợ CUDA."
+    }
+  },
+  {
+    "id": 54,
+    "data": {
+      "text": "PyTorch cũng phát triển phương thức hỗ trợ cho các nền tảng GPU khác, ví dụ, ROCm của AMD và Metal Framework của Apple."
+    }
+  },
+  {
+    "id": 55,
+    "data": {
+      "text": "Guido van Rossum bắt đầu nghiên cứu Python vào cuối những năm 1980 với tư cách là ngôn ngữ kế thừa cho ngôn ngữ lập trình ABC và phát hành nó lần đầu tiên vào năm 1991 với tên gọi Python 0.9.0."
+    }
+  },
+  {
+    "id": 56,
+    "data": {
+      "text": "Cython cũng có thể được dùng để phiên dịch một tập lệnh Python sang C và tạo ra các lệnh gọi API ở cấp độ của C trực tiếp vào trình thông dịch Python."
+    }
+  },
+  {
+    "id": 57,
+    "data": {
+      "text": "Numba sử dụng LLVM để biên dịch một tập con của Python sang mã máy."
+    }
+  },
+  {
+    "id": 58,
+    "data": {
+      "text": "Các thư viện như NumPy, SciPy và Matplotlib cho phép sử dụng một cách có hiệu quả Python trong tính toán khoa học, với các thư viện chuyên ngành chẳng hạn như Biopython và Astropy cung cấp các chức năng miền cụ thể."
+    }
+  },
+  {
+    "id": 59,
+    "data": {
+      "text": "Python thường được sử dụng trong các dự án trí tuệ nhân tạo và học máy với sự giúp đỡ của các thư viện như TensorFlow, Keras, Pytorch và Scikit-learn."
+    }
+  },
+  {
+    "id": 60,
+    "data": {
+      "text": "TensorFlow nguyên thủy được phát triển bởi đội Google Brain cho mục đích nghiên cứu và sản xuất của Google và sau đó được phát hành theo giấy phép mã nguồn mở Apache 2.0 vào ngày 9/11/2015."
+    }
+  },
+  {
+    "id": 61,
+    "data": {
+      "text": "Bắt đầu từ năm 2011, Google Brain xây dựng DistBelief như là hệ thống máy học thế hệ đầu tiên, độc quyền của mình."
+    }
+  },
+  {
+    "id": 62,
+    "data": {
+      "text": "TensorFlow thế hệ thứ hai của hệ thống học máy của Google Brain, với một bản cài đặt tham khảo đã phát hành dưới dạng phần mềm mã nguồn mở vào ngày 9/11/2015."
+    }
+  },
+  {
+    "id": 63,
+    "data": {
+      "text": "Nhiều nhóm tại Google đã chuyển từ DistBelief sang TensorFlow để phục vụ cho việc nghiên cứu và sản xuất."
+    }
+  },
+  {
+    "id": 64,
+    "data": {
+      "text": "TensorFlow cung cấp một API Python, cũng như một ít tài liệu API C/C++."
+    }
+  },
+  {
+    "id": 65,
+    "data": {
+      "text": "Phần mềm sửa lỗi chính tả thường được tích hợp trong các ứng dụng văn phòng như Microsoft Word hay Google Docs để hỗ trợ người dùng trong việc soạn thảo văn bản."
+    }
+  },
+  {
+    "id": 66,
+    "data": {
+      "text": "Phân tích thành phần chính (PCA) có thể phát hiện bất thường bằng sai số khi biểu diễn và tái tạo dữ liệu từ một số thành phần chính."
+    }
+  },
+  {
+    "id": 67,
+    "data": {
+      "text": "Hai chỉ số thường dùng là độ chuẩn xác (precision), tỷ lệ bất thường thực sự trong số các quan sát được cảnh báo, và độ bao phủ (recall), tỷ lệ bất thường được phát hiện trong tổng số bất thường thực sự."
+    }
+  },
+  {
+    "id": 68,
+    "data": {
+      "text": "Điểm F1 kết hợp hai chỉ số này bằng trung bình điều hòa."
+    }
+  },
+  {
+    "id": 69,
+    "data": {
+      "text": "Với phương pháp trả về điểm bất thường, có thể đánh giá khả năng xếp hạng bằng diện tích dưới đường cong ROC hoặc đường cong precision–recall, thu được khi thay đổi ngưỡng quyết định."
+    }
+  },
+  {
+    "id": 70,
+    "data": {
+      "text": "Đường cong precision–recall đặc biệt hữu ích khi quan tâm đến tỷ lệ cảnh báo đúng trên dữ liệu mất cân bằng."
+    }
+  },
+  {
+    "id": 71,
+    "data": {
+      "text": "Kim và cộng sự cho thấy quy tắc này có thể làm kết quả bị đánh giá quá cao, đến mức điểm bất thường ngẫu nhiên cũng đạt điểm F1 cao."
+    }
+  },
+  {
+    "id": 72,
+    "data": {
+      "text": "Đánh giá mô hình đa lớp phức tạp hơn phân loại nhị phân do sự xuất hiện của ma trận nhầm lẫn (confusion matrix) kích thước K×K."
+    }
+  },
+  {
+    "id": 73,
+    "data": {
+      "text": "Hệ thống dự thi kết hợp dự đoán của nhiều mạng đạt tỷ lệ lỗi top-5 là 15,3%, so với 26,2% của đội đứng thứ hai."
+    }
+  },
+  {
+    "id": 74,
+    "data": {
+      "text": "Lỗi top-5 được tính khi nhãn đúng không nằm trong năm nhãn mà hệ thống xếp hạng cao nhất."
+    }
+  },
+  {
+    "id": 75,
+    "data": {
+      "text": "Trong phân loại một nhãn, độ chính xác top-1 là tỷ lệ ảnh mà nhãn có điểm dự đoán cao nhất trùng với nhãn chuẩn."
+    }
+  },
+  {
+    "id": 76,
+    "data": {
+      "text": "Độ chính xác top-5 là tỷ lệ ảnh mà nhãn chuẩn nằm trong năm nhãn được mô hình xếp cao nhất."
+    }
+  },
+  {
+    "id": 77,
+    "data": {
+      "text": "ILSVRC sử dụng thước đo top-5 để đánh giá bài phân loại."
+    }
+  },
+  {
+    "id": 78,
+    "data": {
+      "text": "Các ảnh được xếp hạng theo điểm này để tính đường cong độ chuẩn xác–độ bao phủ (precision–recall) cho từng lớp."
+    }
+  },
+  {
+    "id": 79,
+    "data": {
+      "text": "Tại ngưỡng ưu tiên độ nhạy, trên EyePACS-1 mô hình đạt độ nhạy 97,5% và độ đặc hiệu 93,4%, tức lần lượt nhận diện đúng 97,5% trường hợp dương tính và 93,4% trường hợp âm tính theo chuẩn nhãn của nghiên cứu."
+    }
+  },
+  {
+    "id": 80,
+    "data": {
+      "text": "Nghiên cứu năm 2018 báo cáo diện tích trung bình dưới đường cong ROC (AUC) là 0,97 cho bài phân loại, đồng thời kiểm chứng mô hình trên các bộ dữ liệu độc lập."
+    }
+  },
+  {
+    "id": 81,
+    "data": {
+      "text": "Mô hình đạt độ chính xác 99,35% trên tập kiểm tra của bộ dữ liệu được thu thập trong điều kiện kiểm soát."
+    }
+  },
+  {
+    "id": 82,
+    "data": {
+      "text": "Độ chồng lấn thường được đo bằng tỉ lệ diện tích phần giao trên diện tích phần hợp của hai hộp (intersection over union, IoU)."
+    }
+  },
+  {
+    "id": 83,
+    "data": {
+      "text": "Trong quy trình PASCAL VOC, một dự đoán được tính là đúng khi mang đúng lớp và hộp có IoU vượt ngưỡng 0,5 với hộp đã gán nhãn."
+    }
+  },
+  {
+    "id": 84,
+    "data": {
+      "text": "Độ chuẩn xác (precision) là tỉ lệ dự đoán đúng trong số các kết quả phát hiện được tính khi đánh giá; độ bao phủ (recall) là tỉ lệ vật thể đã được tìm đúng trong số vật thể cần tìm."
+    }
+  },
+  {
+    "id": 85,
+    "data": {
+      "text": "Trung bình AP trên các lớp được gọi là trung bình độ chuẩn xác trung bình (mean average precision, mAP)."
+    }
+  },
+  {
+    "id": 86,
+    "data": {
+      "text": "Chỉ số chính của COCO lấy trung bình AP trên các lớp và 10 ngưỡng IoU từ 0,50 đến 0,95, cách nhau 0,05."
+    }
+  },
+  {
+    "id": 87,
+    "data": {
+      "text": "AP50 và AP75 lần lượt dùng riêng ngưỡng IoU 0,50 và 0,75; ngưỡng cao hơn yêu cầu hộp khớp chính xác hơn."
+    }
+  },
+  {
+    "id": 88,
+    "data": {
+      "text": "COCO còn báo cáo AP theo kích thước vật thể và độ bao phủ trung bình (average recall, AR) với số kết quả tối đa cho mỗi ảnh."
+    }
+  },
+  {
+    "id": 89,
+    "data": {
+      "text": "SORT sử dụng bộ lọc Kalman để dự đoán vị trí hộp trong khung hình tiếp theo, rồi dùng thuật toán Hungarian ghép các hộp được phát hiện với những quỹ đạo đang theo dõi, dựa trên độ chồng lấn IoU."
+    }
+  },
+  {
+    "id": 90,
+    "data": {
+      "text": "Trong thống kê học, sai số toàn phương trung bình, viết tắt MSE (Mean squared error) của một phép ước lượng là trung bình của bình phương các sai số, tức là sự khác biệt giữa các ước lượng và những gì được đánh giá."
+    }
+  },
+  {
+    "id": 91,
+    "data": {
+      "text": "Trong một tương tự với độ lệch chuẩn, lấy căn bậc hai của MSE cho ra sai số root-mean-square (RMSE), hoặc độ lệch root-mean-square (RMSD), trong đó có các đơn vị tương tự như đại lượng được ước tính."
+    }
+  },
+  {
+    "id": 92,
+    "data": {
+      "text": "Trong học máy, entropy chéo được dùng rộng rãi làm hàm mất mát cho các bài toán phân loại, trong đó p là nhãn thực của dữ liệu và q là phân phối xác suất mà mô hình dự đoán."
+    }
+  },
+  {
+    "id": 93,
+    "data": {
+      "text": "Tối thiểu hóa hàm mất mát entropy chéo trong học máy tương đương với ước lượng hợp lý cực đại (maximum likelihood estimation)."
+    }
+  },
+  {
+    "id": 94,
+    "data": {
+      "text": "V-Net sử dụng các kết nối dư tương tự ResNet và giới thiệu hàm mất mát Dice, giúp tối ưu trực tiếp chỉ số Dice coefficient vốn được sử dụng rộng rãi trong đánh giá chất lượng phân vùng ảnh y khoa."
+    }
+  },
+  {
+    "id": 95,
+    "data": {
+      "text": "GPT-4 của năm 2023 được ca ngợi vì độ chính xác được nâng cao và được xem như \"chén thánh\" nhờ các khả năng đa phương thức của nó."
+    }
+  },
+  {
+    "id": 96,
+    "data": {
+      "text": "Độ phức tạp (perplexity) là một thước đo truyền thống dùng để đánh giá mô hình ngôn ngữ."
+    }
+  },
+  {
+    "id": 97,
+    "data": {
+      "text": "Hai phương pháp thường sử dụng để đánh giá đó là BLEU (BiLingual Evaluation Understudy) và NIST (National Institute of Standards and Technology)."
+    }
+  }
+]
