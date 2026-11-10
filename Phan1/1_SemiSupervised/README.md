@@ -1,5 +1,7 @@
 # Semi-supervised
 
+Giải thích chi tiết toàn bộ bài làm: `giai_thich_bai_lam.md`.
+
 Notebook: `semi_supervised.ipynb` (chạy trong VS Code, thư viện `nltk`, `pandas`).
 
 1. Đọc `../data/comments_raw.csv` và 20 nhãn tay `../data/labels_manual.csv`.
