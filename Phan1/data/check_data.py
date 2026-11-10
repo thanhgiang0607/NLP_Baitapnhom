@@ -24,7 +24,7 @@ if dup: errors.append(f"{dup} binh luan bi trung noi dung.")
 if any("�" in t for t in texts): errors.append("Co ky tu loi (�): file chua luu dung UTF-8.")
 if any("\n" in r["text"] for r in rows): errors.append("Co binh luan bi xuong dong ben trong o.")
 short = sum(len(t.split()) < 4 for t in texts)
-if short: warns.append(f"{short} binh luan duoi 4 tu (Turney kho trich cum tu).")
+if short: warns.append(f"{short} binh luan duoi 4 tu.")
 avg = sum(len(t.split()) for t in texts) / len(texts)
 
 print(f"So dong: {len(rows)} | Trung binh {avg:.1f} tu/binh luan")

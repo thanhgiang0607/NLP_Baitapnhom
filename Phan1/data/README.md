@@ -1,8 +1,8 @@
-# Dữ liệu dùng chung cho nhóm 1 và nhóm 2
+# Dữ liệu Phần 1
 
-(Nhóm 3 không dùng file này: nhóm 3 tự cào dữ liệu trên DuckDuckGo.)
-
-**File duy nhất:** `comments_raw.csv` – 200 dòng, đúng 2 cột `id`, `text`.
+**Các file:**
+- `comments_raw.csv` – 200 dòng, đúng 2 cột `id`, `text`.
+- `labels_manual.csv` – 20 nhãn tay (10 `pos`, 10 `neg`), cột `id`, `label`.
 
 | id | text |
 |---|---|
@@ -35,5 +35,5 @@ Quy tắc: UTF-8 · mỗi bình luận một dòng · giữ nguyên chữ gốc 
 
 ## Lưu ý về dữ liệu
 - Phần lớn là văn nói, viết tắt, tiếng lóng, kèm tiếng Anh (prompt, free, pro...).
-- Có cả khen, chê và trung tính; **chưa gán nhãn**. Nhóm 1 cần tự chọn 10 câu rõ khen + 10 câu rõ chê.
+- Có cả khen, chê và trung tính; **chưa gán nhãn**; 20 câu rõ khen/chê đã gán tay trong `labels_manual.csv`.
 - Khoảng một nửa số câu bàn về việc dùng AI để viết bài/học tập và so sánh các AI (ChatGPT, Claude, Gemini...).
