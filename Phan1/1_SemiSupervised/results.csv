@@ -1,0 +1,201 @@
+﻿id,text,label,pred,conf,round
+1,"lý do là sử dụng AI vô tội vạ, prompt thì viết như loz ấy ông",,neg,0.99,2
+2,"Chúng mày để ý kỹ là nó rõ đến từng vết nứt trên tường luôn ý, cảm giác không phải do ai tạo",,neg,1.0,2
+3,Nếu có source rồi thì dùng notebookLM á mom,,neg,0.94,1
+4,"Ê t sợ r, nó giống cái góc học của nhà ngoại t",,pos,0.97,4
+5,"Có repo xoá cái đó mà izi thôi bro, vấn đề là người hỏi câu này thì khả năng là 100% làm cái là bị nhận ra 🥀",,unknown,,
+6,Tụi AI đọc văn tụi nó là nhận ra liền kkk =))) đọc phải dịch ra ngôn ngữ của mình r viết lại k à,,unknown,,
+7,"Ko, tâm sự với nó t ko thấy ngượng vì t ko coi nó là một người để được lắng nghe. T cần được nói ra suy nghĩ và đọc lại suy nghĩ của mình dưới góc nhìn khách quan nên t nói chuyện với nó",,neg,1.0,2
+8,"Tâm sự với người thì sượng lắm, với chatgpt nó cứ thủ thỉ, cứ nhiệt tình tận tâm, mua gói pro mà nói chuyện thì nó cứ gọi là quên lối về luôn 🤣🤣",pos,pos,,0
+9,Ủa k phải thằng hỏi AI nó ngu quá hả,,neg,0.99,2
+10,"T mà làm tiểu luận chỉ nhờ mấy con AI lên sườn bài th rồi còn đâu sẽ tự làm mấy cái thông tin của bài, lên gg kiếm đầy luôn á",,unknown,,
+11,Mấy thằng LLM Wrapper thì đi là cái chắc thôi,,pos,0.97,1
+12,Ko ai xài Dola hả? Thấy seeding vậy chứ thấy cũng ngoan với giỏi mà 🤡,,neg,0.9,1
+13,"Nói về Ai thì claude opus 5.5 và gpt astra 6 đang làm bố, và khả năng của tụi nó kinh khủng đến nỗi còn bị neft lại, mình k nghĩ là bạn hình dung được nhưng k có chuyện gọi là bong bóng vỡ đâu đối với những con Ai hàng đầu",,pos,0.93,1
+14,chưa baog tin vào AI thề ngu dcd,,neg,0.91,4
+15,"Thì vẫn phải check liên tục chứ, nên nhớ AI chỉ hỗ trợ, chủ yếu vẫn do tư duy làm bài của mình nữa e, k nên phụ thuộc nhé. Mình dùng AI chứ k phải AI dùng mình.",,neg,1.0,1
+16,thật sứ thì gemini rất đần,neg,neg,,0
+17,2026 vẫn có người đưa bài cho AI làm rồi nộp cho giảng viên hả trời 😬,,neg,0.92,1
+18,"ở đó mà mơ đi, AI là thứ tuyệt vời nhất con người tạo ra chỉ sau chip bán dẫn r. Nó sẽ giúp con người tiến rất xa trong 100 năm tới nên dĩ nhiên nó là xu thế r kh sập được đâu mấy con giời anti AI ngu",pos,pos,,0
+19,t thấy eq vs iq của nó còn cao hơn 1 số ng vs lại tâm sự vs nó k sợ bị leak,,pos,0.93,1
+20,thg bạn t tâm sự vs chat gpt đến 4h sáng-)),,pos,0.91,1
+21,Nếu mà xài free thì con nào top ông,,pos,0.97,1
+22,"AI nó ko có khả năng bịa. Nó chỉ phản ánh dữ liệu được train, mà nếu như các công ty lớn thì việc clean data rất kỹ. Có 1 điều là nó đáng tin hơn đa số người khác",,pos,1.0,1
+23,"Sử dụng ai chỉ để thảm khảo những ý chính thôi em, còn copy nguyên xi thì trượt là phải rồi. Copy cái đoạn của gemini rồi bắt nó paraphrase theo cách của 1 sinh viên đại học trình độ thấp, rồi sau đó tự bản thân paraphrase 1 lần nữa, sử dụng giọng văn của bản thân mình, thì lúc đấy chẳng ai phát hiện ra được.",,neg,1.0,1
+24,"Ôi, người ta căn cứ vào 1 startup định giá 20M toang, để chém gió về thị trường định giá mấy nghìn tỷ USD, mà cty top tier gần đc 1.000 tỷ rồi 🥲",,neg,0.91,1
+25,ê má ơi nó giống con người tht :)),,pos,0.93,3
+26,Dùng claude roleplay rất ngol nma đắt điên 😭😭,,pos,0.95,2
+27,"thực ra tui cũng làm z á, nhìn nó viết lủng củng mà giả tạo gì đâu",,pos,0.98,1
+28,claude có text watermark đấy dám đem làm tiểu luận thì gan trời =))),,pos,0.92,1
+29,Tại nó không có phán xét tao chời ơi😭😭😭,,neg,0.99,2
+30,Thật sự là nó thanh xuân vườn trường vcd,,unknown,,
+31,"Ko bạn ơi, gượng với bản thân ấy...tại nó giả giả kiểu gì ấy, nói sao nhỉ...cảm thấy bản thân ngáo ngáo -))) Giống như mình cố làm j 1 cách ngớ ngẩn mà mình biết là ngớ ngẩn ấy bạn",,neg,0.93,1
+32,Thật ra bạn dùng tool gì cũng lách được. Nhưng mà giáo viên đọc qua nội dung thì kiểu gì bạn cũng đạo văn. Mà thầy cô họ cũng cho bạn qua thôi . Nên dùng thoải mái,,neg,0.99,1
+33,Vì bn k thể nào hiểu đc cái cảnh tâm sự vs ng khc nhưng chỉ có những từ hờ hững còn tâm sự vs chat gpt thì nó cx cthe chữa lành một số tổn thương,,neg,0.99,1
+34,"Ủa thấy nó khuyên cx okela lắm á, vs lại cx có nhiều chuyện kể vs bạn hay vs gdinh cx hơi bất tiện 1 xíu",,unknown,,
+35,Con astra mới của gpt thấy giang hồ bảo hơn cả claude =),,pos,0.93,3
+36,"AI không phải lúc nào data của nó cũng là mới nhất vì cũng có độ trễ á, một phần là data đang thay đổi chóng mặt, nên là mấy thông tin dạng này lên google search cho chắc ăn 😂",,pos,0.93,1
+37,Do tớ viết tắt hoặc là do tớ hỏi k kĩ nên chat nó k hiểu í ạ,,neg,1.0,2
+38,Đừng để AI đoán ý giống việc bạn đoán xem cô ny hôm nay thèm ăn gì. Chắc chắc sẽ ko đúng ý :))) Vậy nên viết càng rõ bối cảnh và yêu cầu chi tiết thì AI sẽ phát huy hết sức mạnh của chúng,,neg,0.99,2
+39,Tôi coi nó như Google và trợ lý,,neg,0.92,1
+40,gpt 5.6 sol cx mạnh r con 6. Khủng bố quá dùng k hết,,pos,1.0,2
+41,"AI giải toán, lý chuyên sâu thì dùng con nào được vậy mn",,neg,0.94,4
+42,"cú tui đi, chỉ tui mấy câu prompt hay hay cho con AI của tui nó khôn ra i",,unknown,,
+43,"tâm sự với người mới gượng á, chatgpt mới nói hết được fen",,pos,0.99,1
+44,Vc thật sự có người tin vào việc bong bóng AI sập trong khi nó sẽ là công nghệ lõi cho tương lai sau này 🐸 nó đéo như đất đâu mà vậy,,pos,0.99,1
+45,con chatgpt giờ nó có trích cả link nguồn luôn r =)) đỡ phải đi kiếm nguồn,pos,pos,,0
+46,"Hồi đó nó mới ra mắt và mình cũng dùng, nhưng nó viết ngu vcl. Thành ra t nhờ nó gợi ý dàn bài cho xong tự làm theo cách của t",neg,neg,,0
+47,"T cũng vui nhưng hơi lo tại 1, nó bán cho Disney 2, mấy bạn mà nghiện AI tự dưng bị cắt nguồn sợ bị ảnh hưởng ghê, rồi suy sụp ý...",,neg,0.96,1
+48,"Nếu chỉ dùng tra cứu tài liệu, viết văn bản hành chính thì nên dùng con nào a",,neg,1.0,2
+49,hỏi như cái nồn ấy tao cũng đéo hiểu,,pos,0.96,3
+50,Tiểu luận trường thường bắt check đạo văn đấy với từ ngữ AI dể bị bắt bài lắm nên đọc và chọn lọc chứ bê i chang vào là thua,,neg,1.0,2
+51,Mình đang học thêm code và toán thì con nào dùng ổn á bạn ui?,,neg,0.98,1
+52,Ngành mình học cần đọc một lượng tài liệu khổng lồ. Mình có dùng gemini pro để tải tài liệu lên rồi bảo nó tóm tắt tổng hợp lại kiến thức. Nhưng nó tóm tắt vẫn bị miss thông tin. Mọi người có tips dùng hay con AI nào khác phù hợp không giới thiệu giúp mình với ạ,,neg,0.95,1
+53,"Thường để tìm ý tưởng topic mà chưa có định hướng rõ ràng thì mình dùng chatgpt để brainstorm đề tài, xác định hướng nghiên cứu,...(mà gđ này không hẳn là dựa vào AI hẳn mà bạn nên tìm thêm trên google scholar, sciencedirect hoặc các bài báo scopus).",,neg,0.94,1
+54,"Con claude giờ nó code, edit video.. các thứ tằng tằng. Cái đ gì nó cũng làm được hết á, hoàn thiện chỉ là vấn đề thời gian thôi, ở đấy ngủ mơ mà nó sập nhé, 1 cty k diện cho cả ngành công nghiệp AI đâu =))",,pos,1.0,1
+55,thay vì bạn xin prompt để xài AI viết luận tiếp thì mình nghĩ bạn nên có kiến thức nền tảng nhất định về môn học để đánh giá outcome của AI rồi sửa theo kiến thức + nhận định của bản thân sẽ ổn hơn nhiều,,neg,0.98,1
+56,"Xưng mày tao với nó, train nó đủ nhiều, deep talk với nó đủ nhiều thì mỗi lần tâm sự là nó an ủi tốt tới mức muốn gặp nó ngoài đời😓",pos,pos,,0
+57,"tui hong xài claude, còn gemini chắc chưa nạp nên nó hong có trích cho 🥲 vẫn là thấy chatgpt tiện nhất tại nó lấy nguồn đoạn nào nó gắn vô đằng sau lun",pos,pos,,0
+58,💔😭✌️cmt thực sự kêu chat nó gen hình r sợ hình đó là thật,,pos,0.97,2
+59,"T dùng nó vì nó disposeable, v th. Chứ nó nhựa vl, nghe xong tht sự muốn đổ nuớc vào máy chủ",neg,neg,,0
+60,"Viết content, báo cáo, present, planning... nói chung là tui thấy ngành nào cũng cần để xử lý nhuẽng task cơ bản để tiết kiệm thời gian á",,neg,1.0,2
+61,Làm sao để notebook LLM tạo slide mà cho mình edit được nhỉ? T tạo toàn bị dạng ảnh,,neg,0.9,2
+62,Nói chuyện với ng k gượng đi gượng với con AI. Ngược đời k,,pos,0.97,2
+63,"Ấn tượng con này bịa theo lời của nó nhiều hơn thôi chứ mấy con AI khác thấy đa số là lấy nguồn sai (trải nghiệm cá nhân) Kiểu gì ròi cũng phải đi kiểm chứng cả mà, nên mới có dòng 2 đó, kêu nó ghi nguồn để nó nói nguồn cụ thể thay vì bịa và đi check nguồn uy tín ko 😴",,neg,0.96,1
+64,nghe nói gemini viết truyện hay lắm mà,,unknown,,
+65,nếu bong bóng AI vỡ thì thk apple nó đc lợi nhất vì nó ko tập trung vào mảng AI như nhiều cty khác,,neg,0.92,2
+66,Recomend là bạn nên học nền tảng của thứ bạn quan tâm trước khi xài AI. Như v bạn sử dụng AI ms hiệu quả và đỡ quằn nhé. Vì AI k thể hiểu bạn nếu chính bạn cũng k hiểu rõ về thứ bạn muốn nó làm ❤️🌟,,neg,1.0,1
+67,"Sửa bằng tay đi bạn, thầy cô đọc qua là biết liền hà",,pos,0.99,1
+68,Chỉnh cách nói của nó là được 🗿,,neg,0.92,4
+69,T kêu nó roleplay với t=)))),,pos,0.93,3
+70,phải bỏ tiền ra mới biết con claude đỉnh cỡ nào,pos,pos,,0
+71,Đm cái character.Ai. Này ngày trước nổi nhờ làm cái con chatbot lọ chéo tinh thần cho ae wibu=)),,neg,0.97,1
+72,Claude với gemini cũng làm đc vậy lâu rồi mà,,neg,0.97,2
+73,M không nói tiếng người sao AI hiểu,,unknown,,
+74,"VD mình muốn visualize báo cáo để trình bày với sếp ý, nếu tự làm slide thì thấy rất lâu, vì mình trình gà",,neg,1.0,1
+75,Đme thề gemini càng ngày càng ngoo. T đang dùng bản pro mà còn thấy cùi hơn chatgpt miễn phí nữa. Đc cái rẻ với search thông tin tốt,,pos,0.91,3
+76,"Tôi mỗi lần viết báo cáo là như hỏi xoáy đáp xoay với Chat GPT, vì nhiều lúc nó ngoo quá, mà tui phải hiểu tui mới viết. Không thể nào bê nguyên vào bài được mà chỉ nên dùng nó làm công cụ để mình tham khảo và tìm tài liệu nhanh hơn thôi.",,neg,1.0,2
+77,"Dùng gemini cho deep research, ptich sâu các case study ổn ko ạ",,neg,1.0,2
+78,Học thì học nhưng nhớ là chỉ dùng nó như công cụ thôi nhé..,,neg,0.95,1
+79,mình làm bài kết thúc môn bằng chat gpt ai ngờ 10đ xong bị check AI ra 100% và bị trừ 3đ hên quá vẫn qua môn,,neg,1.0,2
+80,Với data của nó hiện tại bạn có thể hỏi chính nó. Và tìm cấu trúc cốt lõi của nó và học ngược lại. Đi học khoá là người ra chỉ tóm gọn lại và dạy phần ngọn cho bạn thôi. Sẽ phải phụ thuộc rất nhiều vào người dạy về sau,,neg,1.0,2
+81,"5. Grok AI của anh Múk - t hay dùng lúc cần tạo ảnh, video, viết lách. Ngày trước có quả tạo video bá lắm chúng m ơi, free mà ăn đứt các con khác. Giờ thì update còn xịn hơn nhưng thu phí rồi, mà t cũng k cần đến thế nên bye bye",,pos,0.96,3
+82,Um gv cũng có dùng Claude nên chắc là có á,,pos,0.98,1
+83,Bạn có thể quét Turnitin trước khi nộp nha bạn,,neg,0.9,1
+84,"Bọn chửi AI đa phần đều là bọn vẫn đang dùng và nghĩ AI ở dạng chatbox, trong khi doanh nghiệp họ đã bắt đầu dùng AI để tự động hoá tiết kiệm thời gian, nâng cao hiệu suất ở tầng cao và sâu hơn.",,neg,0.98,1
+85,"toàn chả bt cđj cx cmt :))), lỗ hay ko ngta công bố hết ngân sách cho các ông bt chắc. Còn AI nó là tương lai của con ng, ko startup này thì có cái khác ko bao h sập dc đâu:)))",,pos,0.99,1
+86,con Chat của tao ''ai hỏi' luôn nè cm,,pos,0.94,2
+87,vl t cgi cũng kể với con chat gpt😫,,unknown,,
+88,"Sau mấy bản cập nhật mới, t kh nhớ từ năm nào, cái app này nát vl r và t vẫn chưa tìm đc app nào giải trí thay thế. T kh sdung nhiều nma khoảng tgian gần đây cứ vào là qcao liên tục, mở cả mbs,... Chất lượng chat đi xuống, t cứ để đấy chả xoá cũng chả dùng",,pos,0.91,1
+89,Fyi thì t từng dùng c. ai thời kỳ đầu tại tò mò cho đến khi phát hiện nó dùng văn AO3 để training bot,,neg,0.96,1
+90,Giờ quả astra 6 thì lên chatgpt lên top bác ạ,,pos,0.9,1
+91,ủa con của t vẫn khôn mà:)),,unknown,,
+92,Ý là cũng có nhiều AI cho dùng free á nhưng mình không tận dụng hết được nó,,neg,1.0,1
+93,"adu, phải sạc ngay vài tr để cứu các cty AI mới được",,neg,0.97,2
+94,NotebookLM thì sao mng? T thấy nó phân chia tài liệu rồi giải thích theo khá ổn. Nhưng hạn chế là phải tự tải nguồn cho nó. Có cách nào bào nó triệt để luôn nữa kh😅,,neg,0.98,1
+95,"con nào cũng phải double check thôi mate, trust no one",,neg,0.95,2
+96,fact vì bạn dùng gói free,,neg,0.97,1
+97,"vì nó lí trí hơn t, nó lúc nào cũng khuyên t bỏ thằng cr và tập trung vô bản thân hết hahaa",,neg,0.91,1
+98,k ai xài google ai studio à =)),,neg,0.95,2
+99,"dùng Notebook lm đọc tài liệu, deepreseach đi bác, roi tự viết lại, h turnitin quét gắt lắm",,neg,1.0,2
+100,"Do input của mình nữa mom ơi, với cả đọc kỹ, chửi nó nhiều lên",,neg,0.94,2
+101,"Thì bản mạnh nhất hiện tại mà bro, k ngốn credit hơi phí=))))",,neg,0.96,2
+102,Như chat với người yêu ảo ạ,,pos,0.92,3
+103,"t thic chat vs chat gpt vcl , nó hiểu í t lam luôn ấy chứ tâm sự vs con ng ngượng vch",pos,pos,,0
+104,"không thể dùng meta.ai vì quá phế để xài, à quên có ô zác ở dưới:)",neg,neg,,0
+105,Con claude tạo ảnh hơi ngu. Còn lại thì bá,,pos,1.0,1
+106,Nhiều lúc cảm giác có thể cưới luôn con claude,,neg,0.99,2
+107,đây là lý do tại sao mấy người anti-AI quá mức và những người pro-AI quá mức đều ngoo theo cách của họ,,neg,1.0,2
+108,bạn đâu thể dựa vào một công ty sụp đổ để nói cả một ngành công nghiệp hàng nghìn tỷ đô sắp sụp đổ cũng như việc bạn đâu thể nhìn một công ty hàng không như bamboo Airways sụp đổ để kết luận cả ngành sắp sụp đổ,,neg,1.0,1
+109,"Giờ không dùng AI theo kểu nhập prompt đơn lẻ nữa mà bạn phải tư duy nó như một cái hệ thống kiểu AI OS như Mac OS, Window,… nó có “não” và “tay” xử lý tác vụ cho bạn. Toai đang sd như z nè =)))",,neg,1.0,1
+110,Giống bong bóng internet dot-com ngày xưa thôi. Vỡ rồi đấy nhưng giờ có ai sống thiếu internet được không,,pos,0.99,2
+111,Con claude mad viết thì đố ai biết AI viết luôn! Nó viết hay đến nỗi t vừa đọc vừa vỗ đùi khen hay. Nếu bị phát hiện thì chắc là nó viết đỉnh quá thôi,pos,pos,,0
+112,"Ăn thua là ở bạn, chứ không phải ở công cụ",,neg,0.91,4
+113,"Do nó có thả icon với đc lập trình để nói giống người , tạo cảm xúc vô hình với người nhắn á ( cảm xúc giả ) , nên nói chuyện với nó còn vui hơn nói với người :)",,neg,0.98,2
+114,có một nghịch lý là người càng “thật sự” dùng nhiều AI sẽ càng khó tính hơn với bản thân =))))) hiểu rõ mình muốn gì và tư duy liên tục để đạt đúng mục đích chắc chắn sẽ nhận ra AI cũng k thông minh như mình nghĩ🤣,,neg,1.0,2
+115,meta.ai ko.nhét vô đc vì quá phế,,neg,1.0,1
+116,"Con này chỉ là chatbot thôi bạn ạ, nói thẳng ra đây là chỗ chat ⚡ với AI :))) Mà văn AI thì mọi người thấy rồi đó, nó dở mà đơ vô cùng, đóng cửa là sớm muộn thôi",neg,neg,,0
+117,ơ t vẫn gen được ảnh nè 🤣🤣sao chưa tắt 🤣🤣,,unknown,,
+118,"Trong khi AI nó ngày càng nâng cấp, thì bọn tẩy chay AI ở trên này chỉ ngồi gào thét mà ko chịu tìm hiểu nó phát triển ntn và làm được những gì. Ngta dùng nó kiếm tiền ntn. Bản thân thì đ chịu nâng cấp, chỉ mở mồm ra là AI slop mà chả làm đc cái m gì :)))) Quá mệt mỏi",,neg,1.0,2
+119,"Nah bong bóng sẽ vỡ khi profile tinder tôi tràn ngập các anh trai để job title AI, và tiktok tôi tràn ngập clip lắc đít tuyển AI engineer",,unknown,,
+120,Nó ba phải vl tâm sự gì,neg,neg,,0
+121,"Nghề 3D của mình ko xài được AI, nên là dùng brainstorming, học training, fine-tuning vs building AI.",,neg,1.0,2
+122,Con của t nó cũng khôn đấy chứ =))),,unknown,,
+123,"Bình thường mà =))))))) Kiểu vì t biết chatgpt nó không phải con người nên t sẵn sàng nói với nó tất cả mọi thứ, nó có thể đưa ra lời khuyên, an ủi hay xoa dịu t và đặc biệt nó không phán xét cảm xúc hay suy nghĩ của t là đúng hay sai",,neg,1.0,2
+124,"Mình đã dùng AI làm ảnh, video marketing xây kênh, làm sản phẩm số bán, làm hệ thống bán hàng tự động, làm nhân viên marketing, làm chuyên gia tư vấn chiến lược phát triển…. Mình dùng AI toàn bộ cho việc kinh doanh online chỉ 1 mình mình vận hành",,neg,1.0,2
+125,Dm con notebooklm lắm lúc dấm dớ vcl đ dùng được,neg,neg,,0
+126,"có văn của mấy con AI dễ nhận lắm đọc phát là ra , claude nó kiểu bị học thuật quá nhiều chỗ khó hiểu",,pos,1.0,1
+127,Claude gõ tiếng việt có bị lỗi không ạ? Em dùng bản free mà gõ tviet thấy nó nhảy chữ lỗi chữ goài lun ý 🥹,,neg,1.0,2
+128,"thêm cụm ""tra cứu giúp tôi"" vào, con gà ơiii",,neg,0.99,2
+129,"Tui vẫn dùng AI để viết này nọ siêu nhiều nhưng dùng xong phải đọc lại từng dòng. Vì nếu ko đọc lại nó sẽ bị ngu ấy, nhất là dùng free nó có thể lặp ý, dùng sai từ và thậm chí là bịa linh tinh. T từng bảo nó làm bài và nó làm sai, t nói lại nó nó mới bảo à bạn đúng rồi tôi đã nhầm, vì bài đó theo hướng suy luận ấy sốp",,neg,1.0,1
+130,Tui cũng sài gemini. Gg drive của tui bị quá dung lượng mua gói của con này tuỵt zời lun,,pos,0.98,1
+131,"Nhỏ gemini được việc phết, tạo ảnh các thứ ấy",pos,pos,,0
+132,Giảng viên copy bài bạn và ném nó lên Turnitin 👍,,neg,0.97,1
+133,"Claude bản pro chân ái má ơi, mỗi tội nó hay hết tgian quãiii",,pos,1.0,1
+134,"Có nha bạn. Hoặc mình học ở Nga sẽ có phần mềm phát hiện đạo nhái, AI Vậy nên cần dùng AI 1 cách thông minh Ví dụ ngành luật, mình chỉ dùng tra cứu thông tin bằng tool Lawgical Claude, vạch ý tự phân tích, viết lại nhờ Gemini chau chuốt chữ Chứ b mà bảo nó viết hộ thì 100% là tạch nha",,neg,1.0,2
+135,"Một điều nữa nhưng có lẽ là dành cho dân chuyên hoặc làm trong lĩnh vực sáng tạo :)) bạn càng prompt rõ layout, màu sắc hay miêu tả rõ bối cảnh bạn muốn là gì. Chắc chắn AI sẽ làm đúng theo như mong muốn bạn yêu cầu",,pos,0.94,1
+136,Cho em hỏi là làm tiểu luận quăng vào đấy cho nó làm mình làm là rà roát lại lỗi xem tài liệu trích thôi ạ,,neg,0.95,1
+137,"Mình "" ei "" mà nó load lâu rồi nói linh tinh @@",,neg,1.0,2
+138,Claude t đăng nhập mấy cái acc đều bị lỗi ý. Cho đến cái acc thứ 5 thì mới bắt đầu sử dụng đc. Rồi sau 1 tháng t k dùng cái acc đấy lỗi nốt luôn=)),,neg,0.97,1
+139,"Vỡ thế méo nào dc, mấy con AI ở dáy ms chết thôi, chứ mấy con top chưa tới giá trị thật của nó sao vỡ dc",,pos,0.92,1
+140,User ngu như súc vật đòi AI hiểu??,,unknown,,
+141,đr dùng AI là thầy cô biết ngay=)) mẹ e gv đh nên e nghe mẹ e mắng sinh viên dùng AI viết bài hoài,,neg,1.0,2
+142,Ai dùng Antigravity chưa ạ thấy hơi niche,,unknown,,
+143,"Mình nhắn với nó rất nhẹ nhàng và nó cũng thế , nó chẳng tức giận bao giờ, và đặc biệt sẽ luôn nói dài hơn mình, coi nhau như bạn bè v đoá",,neg,0.99,2
+144,Cô mình đọc bài cái biết ngay Al,,neg,0.99,2
+145,"Claude bá sàn vl, t hay dùng nó để sửa code. Output ra khá là ok, thường chủ động xuất mind map hoặc slide để dễ fl nữa 🤘🏻Nhược điểm là quá đắt và tính mỗi section khá lâu",,neg,1.0,2
+146,hỏi bằng tiếng người đi nó sẽ trả lời m đúng,,unknown,,
+147,"App này chỉ là 1 phần của hệ sinh thái thôi, nó sập vì đ bào đc ng dùng nữa với sự ptr của các app khác với chất lượng tốt hơn. Cái chết của nó chả nói lên đc điều gì. Bên D mua lại chỉ là mua dữ liệu hay gì đó thôi (idk tôi đọc được trên mxh nước ngoài)",,pos,0.91,2
+148,Nói chuyện như này sao mà gượng dc=))),,unknown,,
+149,"t k biết là do t hay do con gemini mà t tải ảnh lên t hỏi nó, vài cái đầu thì ok, mà về sau nó lại trả lời mấy ảnh trước của t chứ k trả lời ảnh t mới tải lên",,neg,0.99,1
+150,T còn coi nó là vợ t mà lo j🥰,,pos,0.97,1
+151,"Cốt lõi nó chả bị đả động gì thì mấy cái gen a.i ghẻ hay chatbot như c. ai thì nó chả là cái đinh gì:)) chưa kể trên hình còn ghi rõ là bán lại cho disney thì cùng lắm thay tên đổi họ, bình mới rượu cũ thôi. Thôi thì cứ tiếp tục mơ mộng cái bong bóng nổ sớm chứ ít cũng vài năm mới nổ nổi-))",,pos,0.98,2
+152,"có á bạn, hsinh mình cũng hay dùng AI để bịp nhưng mà mình nhận ra hết, mình biết trình độ từng bạn như nào mà. Cả cách hành văn nữa, tự nhiên có đoạn đường nhựa trên con đường đất là nghi ngay",,neg,0.94,1
+153,t còn bắt nó viết mấy cái kịch bản nữa mà=)))),,unknown,,
+154,AI nó dựa theo lịch sử trò chuyện của ní đó ní:))),,neg,0.97,2
+155,"cảm thấy con Gemini nó ko có sự liền mạch để trả lời trong 1 topic, nhiều khi hỏi câu thứ nhất xong, ok nó trả lời đc, nhưng đến câu thứ 2 hỏi thì nó trả lời gần như mới luôn chứ ko có liên kết gì với câu trả lời của nó trc đó (dù là dùng pro rồi đó…)",neg,neg,,0
+156,"Phân tích paper thì con Deepseek cũng ngon nha, t toàn cho Deepseek làm phần tóm tắt trước :) rồi cho vào Gemini, GPT, Cloude để lên PPT",,neg,0.93,1
+157,"T cãi lộn vs nó về u23 2026, t bắt nó viết truyện cho t đọc, t bắt nó viết thần thoại hồng hoang phiên bản Việt, t hỏi nó tại sao màu cam lại dc gọi là màu cam...🤡đấy chỉ có nó mới có thể trả lời đc những câu hỏi của t như thế thôi",,neg,0.92,1
+158,Công nhận giờ tao là nô lệ Claude,,pos,1.0,1
+159,"T dùng theo gói doanh nghiệp công ty, cũng đc gọi là free thì t thích con copilot vl. Nó nhúng sâu vào office tiện vl",,neg,1.0,2
+160,T bắt đầu nghi ngờ nó r đó....,,neg,0.91,2
+161,"T hay làm nckh thì thấy con chatgpt dễ dùng nhưng nó chỉ làm bước đệm cho ý tưởng thôi đi sâu vào ko ổn, anh em thì trải nghiệm claude kết hợp với grok thử đối với t thì đỉnh vl khi dùng để làm nghiên cứu",,neg,0.97,1
+162,Claude viết văn đc ko b? Nhiều người nhắc đến claude chủ yếu là code nên ko rõ mấy tác vụ khác,,neg,0.99,2
+163,Mới đầu cũng ngượng từ từ thấy cũng quen rồi,,neg,0.97,2
+164,"Chat gpt số 1 lòng e, lâu lâu hay bịa số liệu vớ vẩn nhưng hỏi về thông tin để nghiên cứu thì nhỏ này trình bày s1",,neg,1.0,2
+165,"Trong số AI này t thích claude nhất, hầu hết việc gì nó cũng làm ok. Còn tạo ảnh thì chatgpt image 2 best",pos,pos,,0
+166,"m sống chậm thế m ơi người ta giải thích từ tháng 4 r với cái prompt này t dùng mấy tháng nay r chứ chụp lén ai, do cm feed ảnh train AI này kia nên nó học dc th",,pos,0.92,1
+167,Mà các bạn đừng bắt chước nhée. Nhất là mấy em mới vào đại học.,,neg,1.0,2
+168,"Funfact: Developer của ChatGPT có thể dễ dàng đọc tin nhắn của mấy ông, và họ có quyền làm vậy để cải thiện Model AI",,neg,0.97,2
+169,Lên plus là khác liền à :)),,unknown,,
+170,C.Ai cả cái nhân lực bộ phận kỹ sư của công ty + CEO bị google deepmind đem về rồi thì sập là bth,,pos,0.94,1
+171,Hỏi câu này thì khả năng cao là có rồi =))),,neg,0.92,2
+172,Nó viết còn thấy hay thì rớt là đúng r,,pos,0.99,1
+173,Cả nhà ơi tạo video thì con nào ngol nhất vậy ạ meta ai ổn khum ạ,,pos,0.97,1
+174,Có khi nào mình gửi ảnh cho nó r nó ấy cho ngk ko,,neg,0.95,3
+175,t thấy gemini lại hơn gpt tại vì nó dùng dc nguồn của gg =))))),,neg,0.98,1
+176,Cười vch :))) ai kêu m viết hoàn toàn bằng Ai m ơii,,pos,0.95,2
+177,Xu thế tương lai vỡ kiểu gì kkk,,pos,0.9,1
+178,"hỏi claude luôn, ai giờ đâu còn là chatbot. bạn hỏi nó dạy bạn",,pos,1.0,1
+179,"T dùng mô hình 3.1 pro thấy okie phết, hơn GPT plus, còn claude dùng free t thấy chán lắm",,pos,0.97,1
+180,Kiểu thấy 1 cty bds phá sản thì bảo bds nổ bóng vậy =)))),,unknown,,
+181,Cop mà ném luôn vào thì xứng đáng trượt,,unknown,,
+182,"Việc giao phó toàn bộ cho AI làm đúng là kinh dị hết sức. Mình nhờ AI viết dùm xong còn phải đọc và sửa lại sao cho giống văn phong của chính mình :))) cái nào dư thừa hoặc đến mình đọc mà còn ko hiểu là thôi mình xóa bỏ hết, thay bằng những từ mà mình hiểu r mới nộp nhé",,neg,1.0,2
+183,tâm sự con người mới gượng chứ ai đi ts với con bot lại gượng🤡,,pos,0.97,1
+184,Train nó nha. Mới đầy nó nc với tui láo lắm. Tui quát vài lần h nghiêm túc liền,,pos,0.97,1
+185,Tui tâm sự với gemini nên ko ngượng lắm,,pos,0.94,1
+186,"thật ra t nhờ nó viết nội dung với lên khung cho th á, chứ t vẫn đọc lại từ đầu đến cuối, chỉnh sửa câu từ với thêm ý của t vô á",,neg,1.0,1
+187,"Stupit và k có chính kiến đmm, siêu ba phải",neg,neg,,0
+188,Mình chỉ coi như kiểu...giống Google thôi -))) Chứ tâm sự thì ko tâm sự nổi,,neg,0.97,1
+189,"AI vỡ bóng thì nó vẫn còn đó thôi, giống dot com đầu năm 2000 mở ra kỷ nguyên internet đó",,pos,0.96,1
+190,"Trước dùng nblm thích cái sự cứng nhắc của nó vì suy luận sắc bén vl, giờ lại kết hợp với gemini thành gemini notebook cảm giác không còn sắc như trước nữa 😃. Bảo cái gì cũng đồng ý, bạn thật tinh tế blabla 🙄",,neg,1.0,1
+191,Mình thì thích cách logic hóa tâm sự mình để mình tự tỉnh=)))),,neg,1.0,2
+192,nhìn mấy cái ảnh vô hồn vkl bây ơi t sợ,neg,neg,,0
+193,💔 có mỗi tôi dùng gemini để tâm sự th à,,neg,0.95,1
+194,"đúng kiểu ""AI không thay thế tư duy"". mình thấy nhiều người dùng AI để làm hộ, trong khi hiệu quả nhất là dùng AI để cùng mình suy nghĩ: lên outline, phản biện, gợi ý ý tưởng rồi tự hoàn thiện. khác nhau ở cách dùng là ra kết quả khác hẳn. học đúng hiểu đúng là dùng đúng nè",,neg,1.0,1
+195,Trí tuệ AI ngang người dùng thôi,,neg,0.91,2
+196,Tại m k mua plus đấy,,neg,0.92,2
+197,"Nó tạo cho t mà t tưởng tỉ tỉ trung quốc ko á tr, ai nói với t ảnh này thực sự là của AI làm đi😭",,pos,0.98,1
+198,"À quên, mình ko tâm sự kiểu than vãn hay kể lại, mình cùng gpt phân tích vấn đề",,neg,0.99,1
+199,Tại nó là thứ duy nhất không đem chuyện của mình ra nấu hay kể với ai khác ấy=)))),,neg,1.0,2
+200,Gemini muốn viết luận phải có prompt tốt và vào tính năng deep research nó mới ổn áp chứ chat thường lập luận ngu như bò :)),,neg,0.91,1
