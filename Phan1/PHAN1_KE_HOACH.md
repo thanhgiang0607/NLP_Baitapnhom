@@ -288,9 +288,7 @@ Phan1/                           # (trong repo NLP_Baitapnhom, cạnh Phan2/)
 │   └── README.md                # nguồn: 10 bài đăng Threads + cách lọc
 ├── 1_SemiSupervised/
 │   ├── semi_supervised.ipynb    # tiền xử lý + Naive Bayes + self-training + chấm tay
-│   ├── results.csv              # nhãn cuối cùng của 200 câu
-│   └── README.md
-├── slides/                      # slide báo cáo
+│   └── results.csv              # nhãn cuối cùng của 200 câu
 ├── README.md
 ├── PHAN1_KE_HOACH.md
 └── SLIDE_BO_CUC.md

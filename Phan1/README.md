@@ -8,4 +8,3 @@ Mô tả đầy đủ (bài toán, các bước, kết quả, hạn chế): `PHA
 | `SLIDE_BO_CUC.md` | Dàn slide: nội dung từng slide + ảnh cần chụp |
 | `data/` | 200 bình luận (`comments_raw.csv`) + 20 nhãn tay (`labels_manual.csv`) |
 | `1_SemiSupervised/` | Notebook semi-supervised + `results.csv` |
-| `slides/` | Slide báo cáo |
